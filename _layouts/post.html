@@ -62,9 +62,11 @@ post_class: post-template
             <!-- End Featured Image -->
 <!-- Download Button -->
             {% if page.download %}
-           
-                <strong class="mr-1">{% include dw.html %}</strong> 
-            
+             <strong class="mr-1">{% include dw.html %}</strong> 
+            {% endif %}
+            <!-- Play Button -->
+            {% if page.play %}
+             <strong class="mr-1">{% include play.html %}</strong> 
             {% endif %}
             <!-- Post Content -->
             <div class="article-post">
