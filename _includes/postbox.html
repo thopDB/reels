@@ -38,8 +38,8 @@
                 {% endif %}
                 </span>
                 <span class="author-meta">
-                <span class="post-name"><a target="_blank" href="{{ author.web }}"class="btn subscribe">Download</a></span>
-                <span class="post-name"><a target="_blank" href="{{ author.web }}"class="btn play">Play Here</a></span><br/>
+                <span class="post-name"><a target="_blank" href="{{page.download}}"class="btn subscribe">Download</a></span>
+                <span class="post-name"><a target="_blank" href="{{page.play}}"class="btn play">Play Here</a></span><br/>
                 {% endif %}
                 <span class="post-date">{{ post.date | date_to_string }}</span>
                 </span>
