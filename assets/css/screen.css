@@ -545,7 +545,17 @@ ul.tags li a:hover {
     font-weight: 600;
     text-transform: uppercase;
 }
-
+.btn.play {
+    background-color: #e02c10;
+    border-color: #e02c10;
+    color: rgba(255, 255, 255, 1);
+    fill: rgba(255, 255, 255, 1);
+    border-radius: 30px;
+    font-size: 0.85rem;
+    margin-left: 10px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
 .post-top-meta .btn.follow {
     margin-left: 5px;
     margin-top: -4px;
