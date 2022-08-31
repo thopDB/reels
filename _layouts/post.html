@@ -60,7 +60,12 @@ post_class: post-template
 
             {% endif %}
             <!-- End Featured Image -->
-
+<!-- Download Button -->
+            {% if page.web %}
+           
+                <strong class="mr-1">{% include dw.html %}</strong> 
+            
+            {% endif %}
             <!-- Post Content -->
             <div class="article-post">
                 <!-- Toc if any -->
