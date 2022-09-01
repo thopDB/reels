@@ -1,0 +1,19 @@
+<article id="post-11368" class="post hentry">
+<div class="post-thumb">
+<a href="{{ site.baseurl }}{{ post.url }}" rel="bookmark">
+{% if post.image %}
+
+                    {% if site.lazyimages == "enabled" %}
+                        <img class="img-fluid lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="{% if post.image contains "://" %}{{ post.image }}{% else %}{{ site.baseurl }}/{{ post.image }}{% endif %}" alt="{{ post.title }}">
+                    {% else %}
+                        <img width="230" height="345" src="{% if post.image contains "://" %}{{ post.image }}{% else %}{{ site.baseurl }}/{{ post.image }}{% endif %}" alt="{{ post.title }}" class="entry-thumb wp-post-image" alt="" loading="lazy"> 
+                    {% endif %}
+
+                {% endif %}
+</a></div>
+<h2 class="entry-title">
+<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+<!--<span>2022</span>-->
+</h2>
+<div class="clear"></div>
+</article>
