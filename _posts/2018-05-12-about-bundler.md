@@ -3,7 +3,7 @@ layout: post
 title:  "About Bundler"
 author: sal
 categories: [ Jekyll ]
-image: assets/images/2.jpg
+image: assets/images/m1.jpg
 rating: 3
 download: https://jamstackthemes.dev/theme/react-portfolio-template/
 play: https://jamstackthemes.dev/theme/
