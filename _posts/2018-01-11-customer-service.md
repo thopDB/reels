@@ -4,7 +4,7 @@ title:  "Inception Movie"
 author: john
 categories: [ Jekyll, tutorial ]
 tags: [red, yellow]
-image: assets/images/11.jpg
+image: https://ww19.ibomma.bar/wp-content/uploads/2022/08/Pellikuturu-Party-Telugu-2022-V2-230x345.jpg
 description: "My review of Inception movie. Acting, plot and something else in this short description."
 featured: true
 hidden: true
