@@ -17,10 +17,13 @@ post_class: post-template
 {% for category in sortedCategories %}
 <div class="entry-tags-movies"> {{ category }}</div>{% endfor %}
 <div class="cast-and-director-div">
- {% assign sortedTags = page.tags | sort %}
-{% if tag in sortedTags %}
 <div class="cast-and-director">
-<i class="icon-user"></i><span class="c-a-m-title">Cast: </span>#{{ tag }}</div>{% endif %}
+<i class="icon-user"></i><span class="c-a-m-title">Cast: </span>
+ {% assign sortedTags = page.tags | sort %}
+{% for tag in sortedTags %}
+ #{{ tag }}
+ {% endfor %}
+ </div>
 <!--<div class="cast-and-director movies-director">
 <i class="icon-user"></i><span class="c-a-m-title">Director: </span>Aparna Malladi</div>-->
 </div>
