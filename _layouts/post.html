@@ -9,7 +9,7 @@ post_class: post-template
 ================================================== -->
 <div id="content" class="one-col">
 <div class="bomma-l"><div class="single-poster" itemprop="image">
-<img width="230" height="345" src="{% if post.image contains "://" %}{{ post.image }}{% else %}{{ site.baseurl }}/{{ post.image }}{% endif %}" class="attachment-post-thumb size-post-thumb wp-post-image" alt="{{ page.title }}" itemprop="image"></div></div>
+<img width="230" height="345" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" class="attachment-post-thumb size-post-thumb wp-post-image" alt="{{ page.title }}" itemprop="image"></div></div>
 <div class="bomma-r"><div class="widget entry-header">
 <div class="entry-title-movie">{{ page.title }}</div>
 <!--<div class="entry-tags-movies"><span>2022</span></div>-->
