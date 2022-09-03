@@ -51,7 +51,7 @@ ga('send', 'pageview');
 <div class="container">
 <ul id="responsive-menu" class="ul">
 <div class="mob-search">
-{% include search-lunr.html %}
+{% include i-search.html %}
 </div>
 </ul>
 <div class="clear"></div> <ul id="responsive-menu-1" class="ul">
@@ -121,8 +121,8 @@ ga('send', 'pageview');
       searchInput: document.getElementById('search'),
       resultsContainer: document.getElementById('search-result'),
       json: '/search.json',
-      searchResultTemplate: '<a class="result-item" href="https://pulsarea.com{url}"><div class="title">{title}'+
-              '</div><div class="description">{description}</div></a>'
+      searchResultTemplate: '<a class="result-item" href="{{ site.baseurl }}{url}"><div class="title">{title}'+
+              '</div></a>'
     });
     
       document.querySelector('#search').addEventListener('keyup', function () {
