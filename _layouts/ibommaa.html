@@ -64,6 +64,13 @@ ga('send', 'pageview');
 <div class="container">
 <ul id="responsive-menu" class="ul">
       <div class="mob-search">
+	      <div class="header-element searchbar-wrapper">
+            <div id="search-bar">
+    <i class="fa fa-search" aria-hidden="true"></i>
+    <input id="search" type="text" autocomplete="off" placeholder="Search..." />
+    <div id="search-result"></div>
+</div>
+        </div>
         </div> 
 </ul>
 <div class="clear"></div> <ul id="responsive-menu-1" class="ul">
@@ -83,13 +90,7 @@ ga('send', 'pageview');
 243 1 389 5 365 10 -37 7 -1080 10 -1150 3z"></path></g></svg></div>
 </div>
 <div>
-<div class="header-element searchbar-wrapper">
-            <div id="search-bar">
-    <i class="fa fa-search" aria-hidden="true"></i>
-    <input id="search" type="text" autocomplete="off" placeholder="Search..." />
-    <div id="search-result"></div>
-</div>
-        </div>
+
 <!-- Content
 ================================================== -->
 <div>
@@ -135,23 +136,60 @@ ga('send', 'pageview');
 {% endif %}
 <script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
 <script>
+
+    var scroll = new SmoothScroll('a[href*="#"]');
+
+    window.onscroll = function() {
+      if (window.pageYOffset > 500) {
+        document.getElementById("scroll-to-top").style.display = 'block';
+      } else {
+        document.getElementById("scroll-to-top").style.display = 'none';
+      }
+    };
+
     var sjs = SimpleJekyllSearch({
       searchInput: document.getElementById('search'),
       resultsContainer: document.getElementById('search-result'),
       json: '/search.json',
-      searchResultTemplate: '<a class="result-item" href="{{ site.baseurl }}{url}"><div class="title">{title}'+
+      searchResultTemplate: '<a class="result-item" href="{{site.disqus}}{url}"><div class="title">{title}'+
               '</div></a>'
     });
-    
+      var keyword = 0;
       document.querySelector('#search').addEventListener('keyup', function () {
-        var keyword = this.value.toLowerCase();
+        keyword = this.value.toLowerCase();
 
         sjs.search(keyword);
 
         if (keyword.length > 0) {
-          document.querySelector('#search-result').style.display = 'block';;
+          console.log(document.querySelectorAll('#search-result'));
+          document.querySelector('#search-result').style.display = 'block';
         } else {
-          document.querySelector('#search-result').style.display = 'none';;
+          document.querySelector('#search-result').style.display = 'none';
+        }
+      });
+
+      window.addEventListener("click", (e) => {
+        // display searchbar on clicking searchbar icon
+        console.log(e.target.className);
+        if (e.target.className.includes('fa-search')) {
+          if (document.querySelector('.searchbar-wrapper').style.display == 'block') {
+            document.querySelector('.searchbar-wrapper').style.display = 'none';
+            document.querySelector('.page-content').style.marginTop = '0';
+          } else {
+            document.querySelector('.searchbar-wrapper').style.display = 'block';
+            document.querySelector('.page-content').style.marginTop = '56px';
+          }
+        }
+
+        // hide searchresult on clicking elsewhere
+        if (!e.target.id.includes('search')) {
+          document.querySelector('#search-result').style.display = 'none';
+        } else { // display search result on clicking searchbar
+          if (keyword.length > 0) {
+            document.querySelector('#search-result').style.display = 'block';
+          } else {
+            document.querySelector('#search-result').style.display = 'none';
+          }
         }
       });
 </script>
