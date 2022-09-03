@@ -151,7 +151,7 @@ ga('send', 'pageview');
       searchInput: document.getElementById('search'),
       resultsContainer: document.getElementById('search-result'),
       json: '/search.json',
-      searchResultTemplate: '<a class="result-item" href="{{site.disqus}}{url}"><div class="title">{title}'+
+      searchResultTemplate: '<a class="result-item" href="{{ site.baseurl }}{url}"><div class="title">{title}'+
               '</div></a>'
     });
       var keyword = 0;
@@ -174,10 +174,10 @@ ga('send', 'pageview');
         if (e.target.className.includes('fa-search')) {
           if (document.querySelector('.searchbar-wrapper').style.display == 'block') {
             document.querySelector('.searchbar-wrapper').style.display = 'none';
-            document.querySelector('.page-content').style.marginTop = '0';
+            document.querySelector('.page-template').style.marginTop = '0';
           } else {
             document.querySelector('.searchbar-wrapper').style.display = 'block';
-            document.querySelector('.page-content').style.marginTop = '56px';
+            document.querySelector('.page-template').style.marginTop = '56px';
           }
         }
 
