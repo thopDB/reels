@@ -6,8 +6,8 @@ categories: [ Telugu ]
 tags: [Gopichand,Raashi Khanna]
 image: assets/images/Pakka-Commercial.jpg
 trailer: https://www.youtube.com/watch?v=b31flFfxp7E
-download: https://www1.thopdb.com/?url=89a8zK
-watch: https://mdisk.thopdbapp.workers.dev/?url=89a8zK
+download: https://www1.thopdb.com/?url=YvTGAe
+watch: https://mdisk.thopdbapp.workers.dev/?url=YvTGAe
 dir: Maruthi Dasari
 ---
 
