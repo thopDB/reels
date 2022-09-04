@@ -44,6 +44,11 @@ post_class: post-template
 {% if page.watch %}
  {% include iframe.html %}
  {% endif %}
+ <!-- Adsense if enabled from _config.yml (change your pub id and slot) -->
+            {% if site.adsense == "enabled" %}
+                {% include adsense-under-header.html %}
+            {% endif %}
+            <!-- End Adsense -->
 <div class="entry-content">
 {{content}}
 </div>
