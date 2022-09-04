@@ -24,8 +24,9 @@ post_class: post-template
  #{{ tag }}
  {% endfor %}
  </div>
-<!--<div class="cast-and-director movies-director">
-<i class="icon-user"></i><span class="c-a-m-title">Director: </span>Aparna Malladi</div>-->
+{% if page.dir %}
+ {% include director.html %}
+ {% endif %}
 </div>
 </div></div>
 <div class="ibomma-buttons">
