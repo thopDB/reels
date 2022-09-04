@@ -127,6 +127,7 @@ ga('send', 'pageview');
 </div></nav>
 <div id="main" class="container">
 <div id="content" class="content-loop">
+	{% if page.url == "/" %}
 <div class="demo-wrapper">
 <div id="search-container">
 <input type="text" id="search-input" placeholder="Search Movie Here..">
@@ -141,7 +142,7 @@ ga('send', 'pageview');
 -6 -133 -14 -187 -19 -53 -5 -106 -15 -118 -21 -20 -11 -21 -14 -7 -27 13 -14
 34 -12 193 10 99 14 213 28 254 31 41 4 177 15 302 26 291 26 687 39 1198 41
 243 1 389 5 365 10 -37 7 -1080 10 -1150 3z"></path></g></svg></div>
-</div>
+</div>{% endif %}
 <div>
 	<div>
 <!-- Content
