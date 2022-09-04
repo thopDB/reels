@@ -126,10 +126,11 @@ ga('send', 'pageview');
 </ul>
 </div></nav>
 <div id="main" class="container">
-{% if post.slogan %}
+<div id="content" class="content-loop">
+{% if page.url == "/" %}
 {% include slogan.html %}
 {% endif %}
-
+</div>
 <!-- Content
 ================================================== -->
 <div>
