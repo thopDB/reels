@@ -111,17 +111,15 @@ ga('send', 'pageview');
 </div></div>
 <nav id="mobile-menu">
 <div class="container">
-<ul id="responsive-menu" class="ul">
+
       <div class="mob-search">
 	     <div class="demo-wrapper">
-
 <div id="search-container">
 <input type="text" id="search-input" placeholder="How, Jekyll, Liquid...">
-<ul id="results-container"></ul>
+<ul id="results-container" class="ul"></ul>
 </div>
 </div>
         </div> 
-</ul>
 <div class="clear"></div> <ul id="responsive-menu-1" class="ul">
 <li class="menu-style"><a href="{{ site.baseurl }}/about"><i class="icon-fixed-width icon-group"></i> Our i-Team</a></li>
 <li class="menu-style"><a href="{{ site.baseurl }}/bug"><i class="icon-fixed-width icon-bug"></i> Bug Report</a></li>
@@ -191,6 +189,5 @@ SimpleJekyllSearch({
   json: '/search.json',
 })
 </script>
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 </body>
 </html>
