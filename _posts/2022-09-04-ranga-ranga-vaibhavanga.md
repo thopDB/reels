@@ -9,6 +9,7 @@ trailer: https://www.youtube.com/watch?v=gaSS6Qm-pj4
 download: https://www1.thopdb.com/?url=Q56vAw
 watch: https://mdisk.thopdbapp.workers.dev/?url=Q56vAw
 dir: Gireesaaya
+featured: true
 ---
 
 ### Story Line:
