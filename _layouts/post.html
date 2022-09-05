@@ -8,6 +8,11 @@ post_class: post-template
 <!-- Begin Article
 ================================================== -->
 <div id="content" class="one-col">
+ <!-- Adsense if enabled from _config.yml (change your pub id and slot) -->
+            {% if site.adsense == "enabled" %}
+                {% include adsense-under-header.html %}
+            {% endif %}
+            <!-- End Adsense -->
 <div class="bomma-l"><div class="single-poster" itemprop="image">
 <img width="230" height="345" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" class="attachment-post-thumb size-post-thumb wp-post-image" alt="{{ page.title }}" itemprop="image"></div></div>
 <div class="bomma-r"><div class="widget entry-header">
