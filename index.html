@@ -3,7 +3,29 @@ layout: ibommaa
 title: Home
 ---
 
+{% if page.url == "/" %}
 
+<!-- Featured
+================================================== -->
+
+        <h2><span>Featured</span></h2>
+    
+    <div>
+
+    {% for post in site.posts %}
+
+        {% if post.featured == true %}
+
+            {% include featuredbox.html %}
+
+        {% endif %}
+
+    {% endfor %}
+
+    </div>
+
+
+{% endif %}
 
 <!-- Posts Index
 ================================================== -->
