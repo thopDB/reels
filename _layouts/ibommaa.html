@@ -144,20 +144,19 @@ ga('send', 'pageview');
 243 1 389 5 365 10 -37 7 -1080 10 -1150 3z"></path></g></svg></div>
 </div>{% endif %}
 <div>
-	<!-- Adsense if enabled from _config.yml (change your pub id and slot) -->
-            {% if site.adsense == "enabled" %}
-                {% include adsense-under-header.html %}
-            {% endif %}
-            <!-- End Adsense -->
-<!-- Content
+	<!-- Content
 ================================================== -->
 <div>
     {{ content }}
 </div>
 <div class="clear"></div>
 </div></div>
-</div> <!-- /.site-content -->
-	
+</div> <!-- /.site-content --><br/>
+	<!-- Adsense if enabled from _config.yml (change your pub id and slot) -->
+            {% if site.adsense == "enabled" %}
+                {% include adsense-under-header.html %}
+            {% endif %}
+            <!-- End Adsense --><br/>
 <!-- Begin Footer
 ================================================== -->
 <footer id="footer"><div id="copyright" class="container">
