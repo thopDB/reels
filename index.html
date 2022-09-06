@@ -5,46 +5,26 @@ title: Home
 
 {% if page.url == "/" %}
 
-<!-- Featured
+<!-- Telugu 
 ================================================== -->
-
-        <h2><span>Latest Movies</span></h2>
-    
-    <div>
-
-    {% for post in site.posts %}
-
-        {% if post.featured == true %}
-
-            {% include featuredbox.html %}
-
-        {% endif %}
-
-    {% endfor %}
-
-    </div>
+<h3 class="latest-u">
+<span class="icon-rss"></span>Telugu Movies</h3>
+{% for post in site.categories.Telugu limit:6 %}
+ <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
 <div class="clear"></div>
-
-{% endif %}
-
 <!-- Posts Index
 ================================================== -->
 
-<h2><span>Recent All Movies</span></h2>
-    <div>
+<h3 class="latest-u">
+<span class="icon-rss"></span>Recent Movies</span></h3>
 
         {% for post in paginator.posts %}
 
         {% include ibomma.html %}
 
         {% endfor %}
-
-    </div>
 <div class="clear"></div>
-<h2><span>Recent All Movies</span></h2>
-{% for post in site.categories.Telugu limit:3 %}
- <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
 <div class="bottompagination">
 <div class="pointerup"><i class="fa fa-caret-up"></i></div>
 <span class="navigation" role="navigation">
