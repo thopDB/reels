@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Delhi Crime (2022) Season 2 "
-categories: [ Hindi,Multi Audio ]
+categories: [ Hindi,MultiAudio ]
 tags: [Anurag Arora, Sidharth Bhardwaj, Gopal Datt]
 image: assets/images/delhi_crime_season_2.jpeg
 description: "Delhi Crime (2022) Season 2 Telugu Full Movie Download and watch online 720p low file size 500 mb."
