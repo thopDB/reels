@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Khuda Haafiz Chapter 2"
-categories: [ Multi Audio,Hindi ]
+categories: [ MultiAudio,Hindi ]
 tags: [Vidyut Jammwal, Rk Rakesh Boro, Shivaleeka Oberoi]
 image: assets/images/khuda-haafiz.jpg
 description: "Khuda Haafiz Chapter 2 2022 Telugu Full Movie Download and watch online 720p low file size 500 mb."
