@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sundari Gardens(2022)"
-categories: [ Telugu,Multi Audio ]
+categories: [ Telugu,MultiAudio ]
 tags: [Aparna Balamurali, Neeraj Madhav]
 image: assets/images/sundari.jpg
 description: "Sundari Gardens 2022 Telugu Full Movie Download and watch online 720p low file size 500 mb."
