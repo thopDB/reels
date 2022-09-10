@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Naa Medha Case Pettuko (2022)"
-categories: [ Telugu ]
+categories: [ Telugu,MultiAudio ]
 tags: [Kunchacko Boban, Gayathrie, Rajesh Madhavan]
 image: assets/images/Nee-Medha-Case-Pettuko-2022.jpg
 description: "Naa Medha Case Pettuko (2022) Full Movie Download and watch online 720p low file size 500 mb."
