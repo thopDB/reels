@@ -3,7 +3,7 @@ layout: post
 title:  "Brahmastra: Part One – Shiva (2022)"
 categories: [ Telugu ]
 tags: [Ranbir Kapoor, Alia Bhatt, Amitabh Bachchan]
-image: assets/images/Brahmastra.jpg
+image: assets/images/Brahmastra_telugu.jpg
 description: "Brahmastra (2022) Full Movie Download and watch online 720p low file size 500 mb."
 trailer: https://www.youtube.com/watch?v=2p1-bTCEFj4
 download: https://www1.thopdb.com/?url=3Mq5qm
