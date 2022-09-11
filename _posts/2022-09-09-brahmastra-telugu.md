@@ -6,7 +6,7 @@ tags: [Ranbir Kapoor, Alia Bhatt, Amitabh Bachchan]
 image: assets/images/Brahmastra_telugu.jpg
 description: "Brahmastra (2022) Full Movie Download and watch online 720p low file size 500 mb."
 trailer: https://www.youtube.com/watch?v=2p1-bTCEFj4
-download: https://www1.thopdb.com/?url=3Mq5qm
+download: download2274.fastdl.in/index.php?id=zqoena7sn0pv
 watch: https://mdisk.thopdbapp.workers.dev/?url=3Mq5qm
 dir: Ayan Mukerji
 ---
