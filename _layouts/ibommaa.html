@@ -6,11 +6,8 @@
 <meta name="google-site-verification" content="SCcKPq3kqYW8IxPDCCF_gnavPWwhamPDQDSHjqcKVPA" />
 <link rel="icon" href="{{ site.baseurl }}/assets/images/logo.png">
 
-<title>{{ page.title }} | {{site.name}}</title>
-
+<!--<title>ibomma | {{site.name}}</title>-->
 {% seo %}
-
-
 <link href="{{ site.baseurl }}/assets/css/style1.css" rel="stylesheet">
 	
 <link href="{{ site.baseurl }}/assets/css/ibomma.css" rel="stylesheet">
@@ -18,8 +15,11 @@
 <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
 <script type="text/javascript" src="{{ site.baseurl }}/assets/js/jquery-ui-1.8.5.custom.min.js" id="jquery-ui-js"></script>
 <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/YouTubePopUp.css">
+	<!-- defer loading of font and font awesome -->
+	<noscript id="deferred-styles">
 <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/fontawesome.min.css">
-	<link rel="stylesheet" href="https://my-bucket-s3-ap-east-amazonaws.lokicdn.com/ib/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://my-bucket-s3-ap-east-amazonaws.lokicdn.com/ib/css/font-awesome.min.css">
+		</noscript>
 <style>
 	  .demo-wrapper {
 		  max-width: 100%;
@@ -75,7 +75,7 @@ input[type=text]:focus {
     }
     }
 </style>
-<script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=631c0e87a6e546001246888b&product=sop' async='async'></script>
+
 </head>
 
 {% if jekyll.environment == 'production' %}
@@ -143,7 +143,7 @@ ga('send', 'pageview');
 	<div class="cause"><a href="https://reel.thopdb.com/category/hindi"><span class="icon-star"></span>Hindi</a></div>
 <div class="cause"><a href="https://reel.thopdb.com/category/tamil/"><span class="icon-star"></span>Tamil</a></div>
 <div class="cause"><a href="https://reel.thopdb.com/category/english"><span class="icon-star"></span>English</a></div>
-<div class="cause"><a href="https://reel.thopdb.com/category/multi-audio/"><span class="icon-star"></span>Multi Audio</a></div>
+<div class="cause"><a href="https://reel.thopdb.com/category/multiaudio/"><span class="icon-star"></span>Multi Audio</a></div>
 
 <div style="padding-left:22px;padding-top:2px;"><svg version="1.0" xmlns="http://www.w3.org/2000/svg" height="15.000000pt" preserveAspectRatio="xMidYMid meet" width="185.000000pt" viewBox="0 0 234.000000 15.000000"><g transform="translate(0.000000,15.000000) scale(0.100000,-0.100000)" fill="#6ac045" stroke="none"><path d="M1175 134 c-16 -2 -151 -8 -300 -14 -253 -9 -326 -15 -550 -40 -49
 -6 -133 -14 -187 -19 -53 -5 -106 -15 -118 -21 -20 -11 -21 -14 -7 -27 13 -14
@@ -202,6 +202,7 @@ SimpleJekyllSearch({
   json: '/search.json',
 })
 </script>
+	<script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=631c0e87a6e546001246888b&product=sop' async='async'></script>
 	<script type="text/javascript">$(document).ready(function(){$(document).bind("cut copy paste",function(n){n.preventDefault()}),$(document).on("contextmenu",function(n){return!1})});</script>
 <script id="_waux2i">var _wau = _wau || []; _wau.push(["small", "dg1heek2j7", "x2i"]);</script><script async src="//waust.at/s.js"></script>
 	</body>
