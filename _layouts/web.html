@@ -38,9 +38,8 @@ post_class: post-template
  {% if page.download %}
  {% include trailer.html %}
  {% endif %}
- {% if page.download %}
-<div class="button-download">{% include dw.html %}</div>
-{% endif %}
+ <div class="button-download"><a class="button-download-css" id="no-link" onclick="myFunction()"><i class="icon-cloud-download"></i>Mobile Download</a></div>
+<script>function myFunction() {alert("Try to download the individual episodes");}</script>
 </div>
 <div class="clear"></div>
 <div class="clear above-play"></div>
