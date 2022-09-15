@@ -26,4 +26,9 @@ Click Green Color Download Button then open Genrated Link website / blog After C
 ## How to Get Daily Movie Updates ?
 
 - Click to Join Telegram Channel top corner on the website
-- or Join Channel on Telegram Search @thopmoview_app click enter click join  
+- or Join Channel on Telegram Search @thopmoview_app click enter click join 
+
+## Player Error ?
+
+- Open in Chrome Browser all times
+- or any other defult browsers  
