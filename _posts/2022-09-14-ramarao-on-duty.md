@@ -7,7 +7,7 @@ image: assets/images/ramarao-on-duty.jpg
 description: "Ramarao On Duty (2022) Telugu Full Movie Download and watch online 720p low file size 500 mb."
 trailer: https://www.youtube.com/watch?v=2QBYL51ZzvU
 download: https://download2274.fastdl.in/index.php?id=op4yfkbwu8nv
-watch: https://mdisk.thopdbapp.workers.dev/?url=
+watch: https://mdisk.thopdbapp.workers.dev/?url=TYpnj7
 dir: Sarath Mandava
 ---
 
