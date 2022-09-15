@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FAQ
-permalink: /about
+permalink: /faq
 comments: true
 ---
 
@@ -11,7 +11,7 @@ comments: true
 - Click Red Color Play Button 
 - Watch and Enjoy
 
-## How to Download Movie 
+## How to Download Movie ?
 
 Click Green Color Download Button then open Genrated Link website / blog After Clik Download Button Download Movie that's it.
 
