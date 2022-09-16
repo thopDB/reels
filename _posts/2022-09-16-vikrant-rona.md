@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Vikrant Rona (2022)"
-categories: [ Telugu ]
+categories: [ Telugu,MultiAudio ]
 tags: [Sudeep, Nirup Bhandari, Jacqueline Fernandez]
 image: assets/images/vikrant-rona.jpg
 description: "Vikrant Rona (2022) Telugu Full Movie Download and watch online 720p low file size 500 mb."
 trailer: https://www.youtube.com/watch?v=uEYg1920AAc
-download: https://download2274.fastdl.in/index.php?id=4gllu7senydu
-watch: https://mdisk.thopdbapp.workers.dev/?url=nNMt1f
+download: https://download2274.fastdl.in/index.php?id=awy6bew854hp
+watch: https://mdisk.thopdbapp.workers.dev/?url=LP1qPa
 dir: Anup Bhandari
 ---
 
