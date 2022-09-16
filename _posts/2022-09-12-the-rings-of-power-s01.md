@@ -9,12 +9,15 @@ trailer: https://www.youtube.com/watch?v=x8UAUAuKNcU
 ep-name1: "S01 EP 01: A Shadow of the Past"
 ep-name2: "S01 EP 02: Adrift"
 ep-name3: "S01 EP 03: Adar"
+ep-name4: "S01 EP 04: The Great Wave"
 ep-dw1: https://download2274.fastdl.in/index.php?id=cqpfoqy4b3va
 ep-dw2: https://download2274.fastdl.in/index.php?id=faqvlvut2vrc
 ep-dw3: https://download2274.fastdl.in/index.php?id=iucjc8jeigcy
+ep-dw4: https://download2274.fastdl.in/index.php?id=s2si9oh1pdkn
 ep1: https://mdisk.thopdbapp.workers.dev/?url=pDvXDm
 ep2: https://mdisk.thopdbapp.workers.dev/?url=oTXlGp
 ep3: https://mdisk.thopdbapp.workers.dev/?url=dYHpFp
+ep4: https://mdisk.thopdbapp.workers.dev/?url=LQKH1H
 dir: Patrick McKay, John D. Payne
 ---
 
