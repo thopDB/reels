@@ -14,6 +14,9 @@ title: ibomma
 {% for post in site.categories.Telugu limit:12 %}
  <article id="post-11368" class="post hentry">
 <div class="post-thumb">
+ {% if post.qua %}
+ {% include qua.html %}
+ {% endif %}
 <a href="{{ site.baseurl }}{{ post.url }}" rel="bookmark">
 {% if post.image %}
 <img width="230" height="345" src="{% if post.image contains "://" %}{{ post.image }}{% else %}{{ site.baseurl }}/{{ post.image }}{% endif %}" alt="{{ post.title }}" class="entry-thumb wp-post-image" alt="" loading="lazy"> 
@@ -39,6 +42,9 @@ title: ibomma
 {% for post in site.categories.Hindi limit:6 %}
  <article id="post-11368" class="post hentry">
 <div class="post-thumb">
+ {% if post.qua %}
+ {% include qua.html %}
+ {% endif %}
 <a href="{{ site.baseurl }}{{ post.url }}" rel="bookmark">
 {% if post.image %}
 <img width="230" height="345" src="{% if post.image contains "://" %}{{ post.image }}{% else %}{{ site.baseurl }}/{{ post.image }}{% endif %}" alt="{{ post.title }}" class="entry-thumb wp-post-image" alt="" loading="lazy"> 
@@ -65,6 +71,9 @@ title: ibomma
 {% for post in site.categories.MultiAudio limit:6 %}
  <article id="post-11368" class="post hentry">
 <div class="post-thumb">
+ {% if post.qua %}
+ {% include qua.html %}
+ {% endif %}
 <a href="{{ site.baseurl }}{{ post.url }}" rel="bookmark">
 {% if post.image %}
 <img width="230" height="345" src="{% if post.image contains "://" %}{{ post.image }}{% else %}{{ site.baseurl }}/{{ post.image }}{% endif %}" alt="{{ post.title }}" class="entry-thumb wp-post-image" alt="" loading="lazy"> 
