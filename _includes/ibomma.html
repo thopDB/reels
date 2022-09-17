@@ -1,5 +1,8 @@
 <article id="post-11368" class="post hentry">
 <div class="post-thumb">
+  {% if post.qua %}
+ {% include qua.html %}
+ {% endif %}
 <a href="{{ site.baseurl }}{{ post.url }}" rel="bookmark">
 {% if post.image %}
 
