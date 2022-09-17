@@ -3,6 +3,7 @@ layout: post
 title:  "Cobra"
 categories: [ Tamil ]
 tags: [Vikram, Irfan Pathan, Srinidhi Shetty]
+qua: HD
 image: assets/images/cobra-tamil.jpg
 description: "Cobra 2022 Tamil Full Movie Download and watch online 720p low file size 500 mb."
 trailer: https://www.youtube.com/watch?v=sHSDmNhaevQ
