@@ -3,7 +3,7 @@ layout: post
 title:  "Sakalagunabhi Rama (2022)"
 categories: [ Telugu ]
 tags: [VJ Sunny, Ashima Narwal, Tharuni Singh]
-qua: HD
+qua: DVDScr
 image: assets/images/sakala-gunabhirama.jpg
 description: "Sakalagunabhi Rama (2022) Full Movie Download and watch online 720p low file size 500 mb."
 trailer: https://www.youtube.com/watch?v=HjGETuroxS4
