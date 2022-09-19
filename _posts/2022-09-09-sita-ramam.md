@@ -3,10 +3,11 @@ layout: post
 title:  "Sita Ramam (2022)"
 categories: [ Telugu ]
 tags: [Dulquer Salmaan, Rashmika Mandanna, Mrunal Thakur]
+qua: HD
 image: assets/images/Sita-Ramam.jpg
 description: "Sita Ramam (2022) Full Movie Download and watch online 720p low file size 500 mb."
 trailer: https://www.youtube.com/watch?v=Ljk6tGZ1l3A
-download: https://download2274.fastdl.in/index.php?id=08toil0lqv2u
+download: https://download2274.fastdl.in/index.php?id=4k4r0nq9zt14
 watch: https://mdisk.thopdbapp.workers.dev/?url=YKJxhG
 dir: Hanu Raghavapudi
 ---
