@@ -2,7 +2,7 @@
 layout: post
 title:  "The Burning Sea (2021)"
 categories: [ Telugu,MultiAudio ]
-tags: [Kristine Kujath Thorp, Henrik Bjelland, Rolf Kristian Larsen,2021]
+tags: [Kristine Kujath Thorp, Henrik Bjelland, Rolf Kristian Larsen]
 qua: DVDScr
 lag: Telugu + Tamil + Hindi
 image: assets/images/the-burning-sea.jpg
