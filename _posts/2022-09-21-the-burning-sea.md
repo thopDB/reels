@@ -3,7 +3,7 @@ layout: post
 title:  "The Burning Sea (2021)"
 categories: [ Telugu,MultiAudio ]
 tags: [Kristine Kujath Thorp, Henrik Bjelland, Rolf Kristian Larsen]
-qua: DVDScr
+qua: HD
 lag: Telugu + Tamil + Hindi
 image: assets/images/the-burning-sea.jpg
 description: "The Burning Sea (2021) Full Movie Download and watch online 720p low file size 500 mb."
