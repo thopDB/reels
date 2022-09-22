@@ -2,6 +2,8 @@
 layout: web
 title:  "She-Hulk: Attorney at Law (2022)"
 categories: [ Webseries,MultiAudio ]
+qua: HD
+lag: Telugu + Tamil + Hindi + Malayalam + English
 tags: [Paddy Considine, Emma DArcy, Matt Smith]
 image: assets/images/shehulk.jpg
 description: "She-Hulk: Attorney at Law (2022) Webseries Full Movie Download and watch online 720p low file size 500 mb."
