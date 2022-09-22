@@ -10,7 +10,7 @@ description: "Liger 2022 Telugu Full Movie Download and watch online 720p low fi
 trailer: https://www.youtube.com/watch?v=koYN8qSk_Us
 480p: https://mdisk.thopdbapp.workers.dev/?url=ZeFdHq
 720p: https://mdisk.thopdbapp.workers.dev/?url=Y4AWUJ
-1080p: https://mdisk.thopdbapp.workers.dev/?url=
+1080p: https://mdisk.thopdbapp.workers.dev/?url=5i7utR
 dw480p: https://download2274.fastdl.in/index.php?id=z3p9ff6ncdsp
 dw720p: https://download2274.fastdl.in/index.php?id=u02ti7g2e9l1
 dw1080p: https://download2274.fastdl.in/index.php?id=dmk9opqph0rc
