@@ -1,0 +1,99 @@
+---
+layout: ibommaa
+disqus: false
+archive: false
+post_class: post-template
+---
+
+<!-- Begin Article
+================================================== -->
+<div id="content" class="one-col">
+ <!-- Adsense if enabled from _config.yml (change your pub id and slot) -->
+            {% if site.adsense == "enabled" %}
+                {% include adsense-under-header.html %}
+            {% endif %}
+            <!-- End Adsense -->
+<div class="bomma-l"><div class="single-poster" itemprop="image">
+<img width="230" height="345" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" class="attachment-post-thumb size-post-thumb wp-post-image" alt="{{ page.title }}" itemprop="image"></div></div>
+<div class="bomma-r"><div class="widget entry-header">
+<div class="entry-title-movie">{{ page.title }}</div>
+<!--<div class="entry-tags-movies"><span>2022</span></div>-->
+ {% assign sortedCategories = page.categories | sort %}
+{% for category in sortedCategories %}
+<div class="entry-tags-movies"> {{ category }}</div>{% endfor %}
+<div class="cast-and-director-div">
+<div class="cast-and-director">
+<svg width="24px" height="24px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Pro 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M224 256c70.7 0 128-57.3 128-128S294.7 0 224 0S96 57.3 96 128s57.3 128 128 128zm-45.7 48C79.8 304 0 383.8 0 482.3C0 498.7 13.3 512 29.7 512H418.3c16.4 0 29.7-13.3 29.7-29.7C448 383.8 368.2 304 269.7 304H178.3z" fill="#fff"/></svg><span class="c-a-m-title">Cast: </span>
+ {% assign sortedTags = page.tags | sort %}
+{% for tag in sortedTags %}
+ #{{ tag }}
+ {% endfor %}
+ </div>
+{% if page.dir %}
+ {% include director.html %}
+ {% endif %}
+</div>
+</div></div>
+<div class="ibomma-buttons">
+ {% if page.trailer %}
+ {% include trailer.html %}
+ {% endif %}
+ <div class="button-download"><a class="button-download-css" id="no-link" onclick="myFunction()"><svg width="22px" height="22px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><!--! Font Awesome Pro 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M144 480C64.5 480 0 415.5 0 336c0-62.8 40.2-116.2 96.2-135.9c-.1-2.7-.2-5.4-.2-8.1c0-88.4 71.6-160 160-160c59.3 0 111 32.2 138.7 80.2C409.9 102 428.3 96 448 96c53 0 96 43 96 96c0 12.2-2.3 23.8-6.4 34.6C596 238.4 640 290.1 640 352c0 70.7-57.3 128-128 128H144zm79-167l80 80c9.4 9.4 24.6 9.4 33.9 0l80-80c9.4-9.4 9.4-24.6 0-33.9s-24.6-9.4-33.9 0l-39 39V184c0-13.3-10.7-24-24-24s-24 10.7-24 24V318.1l-39-39c-9.4-9.4-24.6-9.4-33.9 0s-9.4 24.6 0 33.9z"/></svg>Mobile Download</a></div>
+<script>function myFunction() {alert("Try to download the individual episodes");}</script>
+</div>
+<div class="clear"></div>
+<div class="clear above-play"></div>
+</div>
+<div class="clear"></div>
+ {% include iframe1.html %}
+{% include multi-post/qplaylist.html %}
+<script>const urls = [
+'{{page.480p}}','{{page.720p}}','{{page.1080p}}',]
+const iframe = document.querySelector('iframe')
+const buttons = document.querySelectorAll('[data-button="ibomma-server-select"]')
+function setIframe() {buttons.forEach(button => {button.classList.remove('active')
+})
+this.classList.add('active')
+let index = this.getAttribute('data-index');index = index - 1
+console.log(index);iframe.src = urls[index]
+localStorage.setItem('{{ site.baseurl }}{{ post.url }}', index)
+}buttons.forEach(button => {button.addEventListener('click', setIframe)
+})
+let defaultIndex = localStorage.getItem('{{ site.baseurl }}{{ post.url }}') || 0;
+buttons[defaultIndex].click()
+</script>
+ <!-- Adsense if enabled from _config.yml (change your pub id and slot) -->
+            {% if site.adsense == "enabled" %}
+                {% include adsense-under-header.html %}
+            {% endif %}
+            <!-- End Adsense -->
+<div class="entry-content">
+{{content}}
+</div>
+</div>
+
+<!-- Review with LD-JSON, adapt it for your needs if you like, but make sure you test the generated HTML source code first: 
+https://search.google.com/structured-data/testing-tool/u/0/
+================================================== -->
+{% if page.rating %}
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "Review",
+  "itemReviewed": {
+    "@type": "Thing",
+    "name": "{{ page.title }}"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "{{ author.display_name }}"
+  },
+  "datePublished": "{{ page.date | date:"%Y-%m-%d" }}",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": "{{ page.rating }}",
+    "bestRating": "5"
+  }
+}
+</script>
+{% endif %}
