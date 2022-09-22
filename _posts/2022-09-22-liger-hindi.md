@@ -3,6 +3,7 @@ layout: post
 title:  "Liger (2022)"
 categories: [ Hindi ]
 qua: HD
+lag: Hindi Dubbed
 tags: [Vijay Deverakonda, Ananya Panday, Ramya Krishnan]
 image: assets/images/liger.jpg
 description: "Liger 2022 Telugu Full Movie Download and watch online 720p low file size 500 mb."
