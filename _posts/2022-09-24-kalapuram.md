@@ -8,7 +8,7 @@ image: assets/images/kalapuram.jpg
 description: "Kalapuram (2022) Telugu Full Movie Download and watch online 720p low file size 500 mb."
 trailer: https://www.youtube.com/watch?v=5wn3yqOhbtk
 480p: https://mdisk.thopdbapp.workers.dev/?url=dop09m
-720p: https://mdisk.thopdbapp.workers.dev/?url=tUPhVq
+720p: https://mdisk.thopdbapp.workers.dev/?url=PSBdFB
 1080p: https://mdisk.thopdbapp.workers.dev/?url=tUPhVq
 dw480p: https://mdb9.blogspot.com/2021/12/omicron-virus-information.html#?o=e623c169328d1e793cfbba7e270794b9c7183c2535ea35aa1d176a03de6abf49db367e9e9a5371d458db53cbc8534c2aac20c7b65729ceec582a700e662dfc22bcbcbdbb4ba28892
 dw720p: https://mdb9.blogspot.com/2021/12/the-most-expensive-keywords-2021.html#?o=fe129382e8ef698bb97f452f9568e76b9b2be3e19f4660f2ab07a9f028aee4b1bed131457fd926ef5a7be613c555cccfdafad86391d17d737434dd1e99fa5d058f2034456d284ea9
