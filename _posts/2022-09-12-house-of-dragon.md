@@ -12,16 +12,19 @@ ep-name2: "S01 EP 02: The Rogue Prince"
 ep-name3: "S01 EP 03: Second of His Name"
 ep-name4: "S01 EP 04: King of the Narrow Sea"
 ep-name5: "S01 EP 05: We Light the Way"
+ep-name6: "S01 EP 06: The Princess and the Queen"
 ep-dw1: https://download2274.fastdl.in/index.php?id=o7w0f4tk995u
 ep-dw2: https://download2274.fastdl.in/index.php?id=ni5namgxkjbm
 ep-dw3: https://download2274.fastdl.in/index.php?id=okv4bbd012v9
 ep-dw4: https://download2274.fastdl.in/index.php?id=ysqrkbulubs6
 ep-dw5: https://download2274.fastdl.in/index.php?id=gf0drdrlvrcl
+ep-dw6: https://download2274.fastdl.in/index.php?id=4tdr1ku14fjn
 ep1: https://mdisk.thopdbapp.workers.dev/?url=abSwaE
 ep2: https://mdisk.thopdbapp.workers.dev/?url=gzlJHK
 ep3: https://mdisk.thopdbapp.workers.dev/?url=KF4e2a
 ep4: https://mdisk.thopdbapp.workers.dev/?url=tSOahc
 ep5: https://mdisk.thopdbapp.workers.dev/?url=9ExRVv
+ep6: https://mdisk.thopdbapp.workers.dev/?url=FWXNvl
 dir: Ryan Condal- George R. R. Martin
 ---
 
