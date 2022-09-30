@@ -1,14 +1,18 @@
 ---
-layout: post
+layout: multi-post
 title:  "Saakini Daakini (2022)"
 categories: [ Telugu ]
 tags: [Regina Cassandra, Nivetha Thomas, Johnson D M]
-qua: DVDScr
+qua: HD
 image: assets/images/sakini-dakini.jpg
 description: "Saakini Daakini (2022) Telugu Full Movie Download and watch online 720p low file size 500 mb."
 trailer: https://www.youtube.com/watch?v=7FkadwuxoSA
-download: https://download2274.fastdl.in/index.php?id=vb8lcpcy4vvz
-watch: https://mdisk.thopdbapp.workers.dev/?url=dqSFq5
+480p: https://mdisk.thopdbapp.workers.dev/?url=7JHpKB
+720p: https://mdisk.thopdbapp.workers.dev/?url=KVh82m
+1080p: https://mdisk.thopdbapp.workers.dev/?url=aQ2rQS
+dw480p: https://mvdb9.blogspot.com/p/thopdb.html?id=6br18vjb45f0
+dw720p: https://mvdb9.blogspot.com/p/thopdb.html?id=cmkfago13rwi
+dw1080p: https://mvdb9.blogspot.com/p/thopdb.html?id=mrg1kwtcoj5g
 dir: Sudheer Varma
 ---
 
