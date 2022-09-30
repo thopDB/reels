@@ -9,7 +9,7 @@ description: "Captain (2022) Full Movie Download and watch online 720p low file 
 trailer: https://www.youtube.com/watch?v=5qVLgjtONpY
 480p: https://mdisk.thopdbapp.workers.dev/?url=wT2VHs
 720p: https://mdisk.thopdbapp.workers.dev/?url=xrctVU
-1080p: https://mdisk.thopdbapp.workers.dev/?url=xrctVU
+1080p: https://mdisk.thopdbapp.workers.dev/?url=uC8CcG
 dw480p: https://mvdb9.blogspot.com/p/thopdb.html?id=nl5qq02jjv2c
 dw720p: https://mvdb9.blogspot.com/p/thopdb.html?id=zxubzhvt6g3t
 dw1080p: https://mvdb9.blogspot.com/p/thopdb.html?id=vei4hlb40p96
