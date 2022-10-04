@@ -13,6 +13,7 @@ ep-name3: "S01 EP 03: Second of His Name"
 ep-name4: "S01 EP 04: King of the Narrow Sea"
 ep-name5: "S01 EP 05: We Light the Way"
 ep-name6: "S01 EP 06: The Princess and the Queen"
+ep-name7: "S01 EP 07: Driftmark"
 ep-dw1: https://appdrive.info/file/FWdcgCaEkcAGWOV9J6Vi
 ep-dw2: https://appdrive.info/file/MUlyrsWXiHssy7qD9Jb1
 ep-dw3: https://appdrive.info/file/RIAASpv7TsHNoIWOLTqM
