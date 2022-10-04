@@ -1,14 +1,18 @@
 ---
-layout: post
+layout: multi-post
 title:  "Aa Ammayi Gurinchi Meeku Cheppali (2022)"
 categories: [ Telugu ]
 tags: [Sudheer Babu Posani, Krithi Shetty, Srinivas Avasarala]
-qua: DVDScr
+qua: HD
 image: assets/images/aa-ammayigurinchi-cheppali.jpg
 description: "Aa Ammayi Gurinchi Meeku Cheppali (2022) Telugu Full Movie Download and watch online 720p low file size 500 mb."
 trailer: https://www.youtube.com/watch?v=EBBhLgMxkDg
-download: https://download2274.fastdl.in/index.php?id=8bab7drpqqmz
-watch: https://mdisk.thopdbapp.workers.dev/?url=0ZGADa
+480p: https://mdisk.thopdbapp.workers.dev/?url=KsmPy1
+720p: https://mdisk.thopdbapp.workers.dev/?url=IAbvZE
+1080p: https://mdisk.thopdbapp.workers.dev/?url=0e10fu
+dw480p: https://appdrive.info/file/ZUFUU55HnRbPuNXfL1aq
+dw720p: https://appdrive.info/file/LHRJZ064e9gCfT4GMtrI
+dw1080p: https://appdrive.info/file/Nfaniy5mVLn4jmeva6wx
 dir:  Mohana Krishna Indraganti
 ---
 
