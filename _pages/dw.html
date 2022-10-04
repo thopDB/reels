@@ -1,0 +1,23 @@
+---
+layout: page
+title: Download Link
+permalink: /dw
+comments: true
+---
+
+<p>* Click Download Generate Download Link through Server</p>
+
+<script type="text/javascript">
+//<![CDATA[
+function getUrlVars() {
+    var vars = {};
+    var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
+        vars[key] = value;
+    });
+    return vars;
+}
+var id = getUrlVars()["id"];
+document.write('<iframe id="container" src="https://loader.to/api/button/?url='+id+'" style="width:100%;height:60px;border:0;overflow:hidden;" sandbox="allow-scripts allow-same-origin"></iframe>');
+//]]>
+</script>
+<p>* Please Wait For 100% done Click Download </p>
