@@ -1,13 +1,18 @@
 ---
-layout: post
+layout: multi-post
 title:  "Karthikeya 2"
 categories: [ Telugu ]
+qua: HD
 tags: [Nikhil Siddhartha, Anupama Parameswaran]
 image: assets/images/Karthikeya-2.jpg
 description: "Karthikeya 2 2022 Telugu Full Movie Download and watch online 720p low file size 500 mb."
 trailer: https://www.youtube.com/watch?v=jYp3SCa9uSc
-download: https://www1.thopdb.com/?url=eT2Irn
-watch: https://mdisk.thopdbapp.workers.dev/?url=eT2Irn
+480p: https://mdisk.thopdbapp.workers.dev/?url=3gUTM0
+720p: https://mdisk.thopdbapp.workers.dev/?url=gYdvsk
+1080p: https://mdisk.thopdbapp.workers.dev/?url=YmKpqW
+dw480p: https://appdrive.info/file/qwA4B2P7SYGOU6ozTeF1
+dw720p: https://appdrive.info/file/ZYwN6R7vlFPoH0riN1UC
+dw1080p: https://appdrive.info/file/1c7zuEA3zLEAuz25kPbX
 dir: Chandoo Mondeti
 ---
 
