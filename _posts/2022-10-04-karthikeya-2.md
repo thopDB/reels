@@ -9,7 +9,7 @@ description: "Karthikeya 2 2022 Telugu Full Movie Download and watch online 720p
 trailer: https://www.youtube.com/watch?v=jYp3SCa9uSc
 480p: https://mdisk.thopdbapp.workers.dev/?url=3gUTM0
 720p: https://mdisk.thopdbapp.workers.dev/?url=gYdvsk
-1080p: https://mdisk.thopdbapp.workers.dev/?url=YmKpqW
+1080p: https://gdrive.thopdb.com/v/xIcuZ0r7k0RO0B2
 dw480p: https://appdrive.info/file/qwA4B2P7SYGOU6ozTeF1
 dw720p: https://appdrive.info/file/ZYwN6R7vlFPoH0riN1UC
 dw1080p: https://appdrive.info/file/1c7zuEA3zLEAuz25kPbX
