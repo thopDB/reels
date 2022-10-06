@@ -14,14 +14,14 @@ ep-name3: "S01 EP 03: The People v. Emil Blonsky"
 ep-name4: "S01 EP 04: Is This Not Real Magic"
 ep-name5: "S01 EP 05: Mean Green and Straight Poured into These Jeans"
 ep-name6: "S01 EP 06: Just Jen"
-ep-name7: "S01 EP 06: Just Jen"
-ep-name8: "S01 EP 06: Just Jen"
-ep-dw1: https://download2274.fastdl.in/index.php?id=694e45dxsbpk
-ep-dw2: https://download2274.fastdl.in/index.php?id=ufgodor3sb0a
-ep-dw3: https://download2274.fastdl.in/index.php?id=ggilx7kun89l
-ep-dw4: https://download2274.fastdl.in/index.php?id=pzwt7eu2hczj
-ep-dw5: https://download2274.fastdl.in/index.php?id=fulqbfu181t8
-ep-dw6: https://download2274.fastdl.in/index.php?id=sh792pdk6qal
+ep-name7: "S01 EP 07: The Retreat"
+ep-name8: "S01 EP 08: Ribbit and Rip it"
+ep-dw1: https://drive.shakib.cyou/sam.php?id=1s5vYQj0e0uyDOqNqMM5curxblzzQ-5m9
+ep-dw2: https://drive.shakib.cyou/sam.php?id=1zPncHG0K1I42A2pvCCfPybRc8hwS5EHE
+ep-dw3: https://drive.shakib.cyou/sam.php?id=1iyA8gk9Ym8ajX7PWRsbSMyHYu78-Fn1P
+ep-dw4: https://drive.shakib.cyou/sam.php?id=125YbGwg50hwtwXGoInS4cpscrzK7TgA-
+ep-dw5: https://drive.shakib.cyou/sam.php?id=1XPDqP2oV3qD-8M7bxBWb6um0GvNcWecX
+ep-dw6: https://drive.shakib.cyou/sam.php?id=1at2xXdZB5Y6aoqk92hezXCYtnqEWinSN
 ep-dw7: https://drive.shakib.cyou/sam.php?id=1pRujKVciwrZMqNLdkNCzfngyyq9ZWhyy
 ep-dw8: https://drive.shakib.cyou/sam.php?id=136o87tG9BfM2MWWs1bFbse-V4im1Sh0l
 ep1: https://mdisk.thopdbapp.workers.dev/?url=Y2CHys
