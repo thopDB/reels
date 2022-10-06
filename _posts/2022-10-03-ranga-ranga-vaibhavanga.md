@@ -10,9 +10,9 @@ trailer: https://www.youtube.com/watch?v=gaSS6Qm-pj4
 480p: https://mdisk.thopdbapp.workers.dev/?url=ATPKrq
 720p: https://mdisk.thopdbapp.workers.dev/?url=LibQAw
 1080p: https://mdisk.thopdbapp.workers.dev/?url=LibQAw
-dw480p: https://mvdb9.blogspot.com/p/thopdb.html?id=q5wjpxw62xy8
-dw720p: https://mvdb9.blogspot.com/p/thopdb.html?id=4vqzfnf0540z
-dw1080p: https://mvdb9.blogspot.com/p/thopdb.html?id=4vqzfnf0540z
+dw480p: https://drive.shakib.cyou/sam.php?id=1xVS27C8agB_yDgDWFy2QG7JaiCcS9ayc
+dw720p: https://drive.shakib.cyou/sam.php?id=14SuWBrVPACrQJJcNCb4x9R3_mN7oAt83
+dw1080p: https://drive.shakib.cyou/sam.php?id=1VOGxSskRJS9ZnE8kbtCAPLpXtLNsuqHT
 dir: Gireesaaya
 featured: true
 ---
