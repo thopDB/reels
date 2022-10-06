@@ -10,9 +10,9 @@ trailer: https://www.youtube.com/watch?v=EBBhLgMxkDg
 480p: https://mdisk.thopdbapp.workers.dev/?url=KsmPy1
 720p: https://mdisk.thopdbapp.workers.dev/?url=IAbvZE
 1080p: https://mdisk.thopdbapp.workers.dev/?url=0e10fu
-dw480p: https://appdrive.info/file/ZUFUU55HnRbPuNXfL1aq
-dw720p: https://appdrive.info/file/LHRJZ064e9gCfT4GMtrI
-dw1080p: https://appdrive.info/file/Nfaniy5mVLn4jmeva6wx
+dw480p: https://drive.shakib.cyou/sam.php?id=1LGD1xJr-t27zJfoGD_X-b7-qCQDjgkPi
+dw720p: https://drive.shakib.cyou/sam.php?id=1zbnNKb-UyuEcFJ2qSZZ1iKz0lN24BrpS
+dw1080p: https://drive.shakib.cyou/sam.php?id=1FEPcJ1mGkB-n1aGpOzL9z7_rMt6JhPrK
 dir:  Mohana Krishna Indraganti
 ---
 
