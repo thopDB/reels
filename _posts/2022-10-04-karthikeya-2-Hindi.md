@@ -11,9 +11,9 @@ trailer: https://www.youtube.com/watch?v=jYp3SCa9uSc
 480p: https://gdrive.thopdb.com/v/AKdZ4lUXMMn305h
 720p: https://mdisk.thopdbapp.workers.dev/?url=wdANvd
 1080p: https://mdisk.thopdbapp.workers.dev/?url=EDGMJj
-dw480p: https://appdrive.info/file/qVyw06eaaMDEwcZrV4nP
-dw720p: https://appdrive.info/file/imbOwznOMN5hEioq4xLf
-dw1080p: https://appdrive.info/file/1zkqvOWofpWrssO0vYEd
+dw480p: https://drive.shakib.cyou/sam.php?id=1lLHYILD4Asa1iHHj5_XU8GVGk5e2foRl
+dw720p: https://drive.shakib.cyou/sam.php?id=1VwX_y9I8KMjNj5rCoVi04ouXAUvxWDee
+dw1080p: https://drive.shakib.cyou/sam.php?id=1pOvT3QWBfM6CvkgYjT4v2hz-DamO3BlK
 dir: Chandoo Mondeti
 ---
 
