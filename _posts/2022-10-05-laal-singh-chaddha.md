@@ -2,7 +2,8 @@
 layout: multi-post
 title:  "Laal Singh Chaddha (2022)"
 categories: [ Telugu,MultiAudio ]
-qua: DVDScr
+qua: HD
+lag: Telugu+Tamil+Hindi
 tags: [Aamir Khan, Ahmad Ibn Umar, Kareena Kapoor]
 image: assets/images/laal-singh-chaddha.jpg
 description: "Laal Singh Chaddha (2022) Full Movie Download and watch online 720p low file size 500 mb."
