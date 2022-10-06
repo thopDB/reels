@@ -1,7 +1,7 @@
 ---
 layout: multi-post
 title:  "Laal Singh Chaddha (2022)"
-categories: [ Telugu,MultiAudio ]
+categories: [ Telugu,MultiAudio,Hindi ]
 qua: HD
 lag: Telugu+Tamil+Hindi
 tags: [Aamir Khan, Ahmad Ibn Umar, Kareena Kapoor]
@@ -11,9 +11,9 @@ trailer: https://www.youtube.com/watch?v=6Tg5BLRmTcg
 480p: https://mdisk.thopdbapp.workers.dev/?url=u2npIY
 720p: https://mdisk.thopdbapp.workers.dev/?url=t61U9h
 1080p: https://mdisk.thopdbapp.workers.dev/?url=xw0Vte
-dw480p: https://drive.shakib.cyou/sam.php?id=1xJjOTGedXnIjgqzQPFw0OC1B8EhctVsI
-dw720p: https://drive.shakib.cyou/sam.php?id=11t2jzWafgfyhrpNd88_bAtGq1cOG8zbk
-dw1080p: https://drive.shakib.cyou/sam.php?id=194E6ksviNITEy2uxFua9Fo8CPR4ngxhQ
+dw480p: https://drive.shakib.cyou/sam.php?id=1cKfVYNiBq1ydtdF5SRujNbHwHRT6zFky
+dw720p: https://drive.shakib.cyou/sam.php?id=1Z6tsjCNd1GxiOoh1gE709xQUdvp1G7Om
+dw1080p: https://drive.shakib.cyou/sam.php?id=1iKoIwjGaR6l8hlsfH1VgJzjdhABC_MLk
 dir: Mohan Raja
 ---
 
