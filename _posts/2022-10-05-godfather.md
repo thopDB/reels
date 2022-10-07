@@ -10,9 +10,9 @@ trailer: https://www.youtube.com/watch?v=Fs57ol2pbuY
 480p: https://mdisk.thopdbapp.workers.dev/?url=Qkl15F
 720p: https://mdisk.thopdbapp.workers.dev/?url=4So620
 1080p: https://mdisk.thopdbapp.workers.dev/?url=D9fEM1
-dw480p: https://drive.shakib.cyou/sam.php?id=1T-PYVN0bLY_9y9wjog606QXjcAXLcgm5
-dw720p: https://drive.shakib.cyou/sam.php?id=1vtsqM0G1FAW3hy3DlfND26TrF9vb7hRW
-dw1080p: https://drive.shakib.cyou/sam.php?id=1mnHyvV898SwiXu3L0ifAyWwJ5suHVjb3
+dw480p: https://drive.shakib.cyou/sam.php?id=12sd-6CoJuoN0B-Noij3ZjLAEOKENaWyP
+dw720p: https://drive.shakib.cyou/sam.php?id=1QXzeoQRzkRwI6fTrINuD3S4BrAFVOHzt
+dw1080p: https://drive.shakib.cyou/sam.php?id=1cxd4Hz7U9Ev68ajiqo1gVwbRDzfqcCQ0
 dir: Mohan Raja
 ---
 
