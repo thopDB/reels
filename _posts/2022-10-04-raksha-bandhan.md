@@ -10,9 +10,9 @@ trailer: https://www.youtube.com/watch?v=ye3faphq3MU
 480p: https://mdisk.thopdbapp.workers.dev/?url=Vqhc8o
 720p: https://mdisk.thopdbapp.workers.dev/?url=vyGUq5
 1080p: https://mdisk.thopdbapp.workers.dev/?url=vyGUq5
-dw480p: https://appdrive.info/file/5XWQEABAdB2urGYz8c1g
-dw720p: https://appdrive.info/file/afMmqqZrZQb6ZdoY0n0P
-dw1080p: https://appdrive.info/file/qxEeWbnseS272YzeJ8dE
+dw480p: https://drive.shakib.cyou/sam.php?id=1H68gjy7MjJ8Pad_7NxcEXThEr8A00kLZ
+dw720p: https://drive.shakib.cyou/sam.php?id=1a7y7sLMIPaUcbycxzJK-ZWi3eQr4v1gp
+dw1080p: https://drive.shakib.cyou/sam.php?id=1eP7nQjMGlc4XY6PlCbLYK8FiuEgRzY0x
 dir: Aanand L. Rai
 ---
 
