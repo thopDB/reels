@@ -5,7 +5,7 @@ categories: [ Telugu,MultiAudio ]
 qua: HD
 lag: Telugu + Tamil + Malayalam
 tags: [Roshan Mathew, Nimisha Sajayan, Biju Menon]
-image: assets/images/pvb.jpg
+image: assets/images/ottc.jpg
 description: "Oru Thekkan Thallu Case (2022) Full Movie Download and watch online 720p low file size 500 mb."
 trailer: https://www.youtube.com/watch?v=0oyeklYfgv8
 480p: https://mdisk.thopdbapp.workers.dev/?url=h76eIf
