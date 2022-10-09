@@ -10,7 +10,7 @@ description: "Oru Thekkan Thallu Case (2022) Full Movie Download and watch onlin
 trailer: https://www.youtube.com/watch?v=0oyeklYfgv8
 480p: https://mdisk.thopdbapp.workers.dev/?url=h76eIf
 720p: https://mdisk.thopdbapp.workers.dev/?url=vtl6kf
-1080p: https://mdisk.thopdbapp.workers.dev/?url=vtl6kf
+1080p: https://mdisk.thopdbapp.workers.dev/?url=2pN2rh
 dw480p: https://drive.shakib.cyou/sam.php?id=1FZLzOfuFW6OZ482OslmUVaNp57Yl-wQy
 dw720p: https://drive.shakib.cyou/sam.php?id=17x1CgivgrnsYXrEzEtS_QSEF-NDi5554
 dw1080p: https://drive.shakib.cyou/sam.php?id=1DfNRYx87ofePhrnQwahB-KrWDqiYhnSV
