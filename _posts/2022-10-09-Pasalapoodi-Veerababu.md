@@ -9,7 +9,7 @@ description: "Pasalapoodi Veerababu [Viruman] (2022) Full Movie Download and wat
 trailer: https://www.youtube.com/watch?v=OnHsqoDtvQA
 480p: https://mdisk.thopdbapp.workers.dev/?url=oRcwns
 720p: https://mdisk.thopdbapp.workers.dev/?url=zGCQUC
-1080p: https://mdisk.thopdbapp.workers.dev/?url=zGCQUC
+1080p: https://mdisk.thopdbapp.workers.dev/?url=EVUGLc
 dw480p: https://drive.shakib.cyou/sam.php?id=1Wg1MlYdP9ElAROhvbXfjOULwBUYFCK-I
 dw720p: https://drive.shakib.cyou/sam.php?id=1MOmq8SmTgVfDbeMUOvNzMajCzDdWc1l2
 dw1080p: https://drive.shakib.cyou/sam.php?id=1Z_YJlqYGiZD-NwUDYOIwSMqgzZa0iDry
