@@ -2,7 +2,7 @@
 layout: web
 title:  "The Lord of the Rings: The Rings of Power S01 (2022)"
 qua: HD
-lag: Telugu + Tamil + Hindi + Mal + Kan + Eng
+lag: Telugu + Tamil + Hindi + Eng
 categories: [ Webseries,MultiAudio ]
 tags: [Morfydd Clark, Nazanin Boniadi, Peter Mullan]
 image: assets/images/The-Lord-of-the-Rings.jpg
