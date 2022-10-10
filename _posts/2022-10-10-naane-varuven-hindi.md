@@ -8,7 +8,7 @@ tags: [Dhanush, Indhuja, Elli AvrRam, Prabhu, Yogi Babu, Selvaraghavan]
 image: assets/images/naane-varuven.jpg
 description: "Naane Varuvean (2022) Full Movie Download and watch online 720p low file size 500 mb."
 trailer: https://www.youtube.com/watch?v=eWb89ymiRow
-480p: https://mdisk.thopdbapp.workers.dev/?url=1BFMof
+480p: https://mdisk.thopdbapp.workers.dev/?url=Rbuno3
 720p: https://mdisk.thopdbapp.workers.dev/?url=1BFMof
 1080p: https://mdisk.thopdbapp.workers.dev/?url=DmCdU3
 dw480p: https://drive.shakib.cyou/sam.php?id=17uo1UwAAOgqMPdArMJpmFqIdxdyO9gd2
