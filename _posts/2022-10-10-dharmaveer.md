@@ -4,7 +4,7 @@ title:  "Dharmaveer (2022)"
 categories: [ Hindi ]
 qua: HD
 tags: [Prasad Oak, Kshitish Date, Shruti Marathe, Gashmeer MahajaniPravin Tarde]
-image: assets/images/dharmaveer.jpg
+image: assets/images/darmaveer.jpg
 description: "Dharmaveer (2022) Full Movie Download and watch online 720p low file size 500 mb."
 trailer: https://www.youtube.com/watch?v=jSOWLmB2Zqw
 480p: https://mdisk.thopdbapp.workers.dev/?url=iDggLe
