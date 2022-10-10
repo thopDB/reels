@@ -9,7 +9,7 @@ description: "Judaa Hoke Bhi (2022) Telugu Full Movie Download and watch online 
 trailer: https://www.youtube.com/watch?v=QBkHs46cB_A
 download: https://drive.shakib.cyou/sam.php?id=1cwZ47c4nMNSh-uyXME3B_i-XHrVf2Pcq
 watch: https://mdisk.thopdbapp.workers.dev/?url=PAcoWp
-dir: Madhur Bhandarkar
+dir: Vikram Bhatt
 ---
 
 ### Story Line:
