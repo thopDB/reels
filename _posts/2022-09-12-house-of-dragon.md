@@ -14,6 +14,7 @@ ep-name4: "S01 EP 04: King of the Narrow Sea"
 ep-name5: "S01 EP 05: We Light the Way"
 ep-name6: "S01 EP 06: The Princess and the Queen"
 ep-name7: "S01 EP 07: Driftmark"
+ep-name8: "S01 EP 08: The Lord of the Tides"
 ep-dw1: https://appdrive.info/file/FWdcgCaEkcAGWOV9J6Vi
 ep-dw2: https://appdrive.info/file/MUlyrsWXiHssy7qD9Jb1
 ep-dw3: https://appdrive.info/file/RIAASpv7TsHNoIWOLTqM
@@ -21,6 +22,7 @@ ep-dw4: https://appdrive.info/file/GBeQLxaQOaj2YxLpmp28
 ep-dw5: https://appdrive.info/file/0czGMLy4KMUddQvrUZ3s
 ep-dw6: https://appdrive.info/file/gfGlG6i2ZpdVrv8rs4hh
 ep-dw7: https://appdrive.info/file/WoNZKb40EXSw1alQaKSF
+ep-dw8: https://drive.shakib.cyou/sam.php?id=1cZSK01hv0UzouVrHNQdN-S-eemTNVuPa
 ep1: https://mdisk.thopdbapp.workers.dev/?url=abSwaE
 ep2: https://mdisk.thopdbapp.workers.dev/?url=gzlJHK
 ep3: https://mdisk.thopdbapp.workers.dev/?url=KF4e2a
@@ -28,6 +30,7 @@ ep4: https://mdisk.thopdbapp.workers.dev/?url=tSOahc
 ep5: https://mdisk.thopdbapp.workers.dev/?url=9ExRVv
 ep6: https://mdisk.thopdbapp.workers.dev/?url=FWXNvl
 ep7: https://mdisk.thopdbapp.workers.dev/?url=TbSJTd
+ep8: https://mdisk.thopdbapp.workers.dev/?url=tz5H7a
 dir: Ryan Condal- George R. R. Martin
 ---
 
