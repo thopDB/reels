@@ -5,7 +5,7 @@ categories: [ Telugu ]
 qua: DVDScr
 lag: Telugu
 tags: [Rishab Shetty, Sapthami Gowda, Kishore Kumar G.]
-image: assets/images/kantara-1.jpg
+image: assets/images/Kantara-1.jpg
 description: "Kantara (2022) Full Movie Download and watch online 720p low file size 500 mb."
 trailer: https://www.youtube.com/watch?v=eWb89ymiRow
 480p: https://mdisk.thopdbapp.workers.dev/?url=NH14Mz
