@@ -15,13 +15,15 @@ ep-name4: "S01 EP 04: The Great Wave"
 ep-name5: "S01 EP 05: Partings"
 ep-name6: "S01 EP 06: Udun"
 ep-name7: "S01 EP 07: The Eye"
-ep-dw1: https://drive.shakib.cyou/sam.php?id=1bTISafYqx5ZPdyOvrKUJKEWbbcvv8R4T
-ep-dw2: https://drive.shakib.cyou/sam.php?id=1Wx2WAdjDv-Tp8YZRm14Sxqp_k-GmLq1N
-ep-dw3: https://drive.shakib.cyou/sam.php?id=1rB0pRLQjJA4Xi7sIBAQpDwox-_6nHee6
-ep-dw4: https://drive.shakib.cyou/sam.php?id=1WrknB0qVv6tPNW7UfDBb1leUx-JWRNnV
-ep-dw5: https://drive.shakib.cyou/sam.php?id=1a3x0W3ec2jVIC6M5WQzAyOXKSXy1V_o3
-ep-dw6: https://drive.shakib.cyou/sam.php?id=1xOiQROUKqwRYN1iYTyIy5vmT6MHTmw7I
-ep-dw7: https://drive.shakib.cyou/sam.php?id=11E6ub_Z_yo3pQFSp8R0hg7L587SXb7Kc
+ep-name8: "S01 EP 08: Alloyed"
+ep-dw1: https://reel.thopdb.com/dw?id=1bTISafYqx5ZPdyOvrKUJKEWbbcvv8R4T
+ep-dw2: https://reel.thopdb.com/dw?id=1Wx2WAdjDv-Tp8YZRm14Sxqp_k-GmLq1N
+ep-dw3: https://reel.thopdb.com/dw?id=1rB0pRLQjJA4Xi7sIBAQpDwox-_6nHee6
+ep-dw4: https://reel.thopdb.com/dw?id=1WrknB0qVv6tPNW7UfDBb1leUx-JWRNnV
+ep-dw5: https://reel.thopdb.com/dw?id=1a3x0W3ec2jVIC6M5WQzAyOXKSXy1V_o3
+ep-dw6: https://reel.thopdb.com/dw?id=1xOiQROUKqwRYN1iYTyIy5vmT6MHTmw7I
+ep-dw7: https://reel.thopdb.com/dw?id=11E6ub_Z_yo3pQFSp8R0hg7L587SXb7Kc
+ep-dw8: https://reel.thopdb.com/dw?id=1xi3mBDSDcUOGRQ7ZBqXz4W6TFu-1Jn2Y
 ep1: https://mdisk.thopdbapp.workers.dev/?url=pDvXDm
 ep2: https://mdisk.thopdbapp.workers.dev/?url=oTXlGp
 ep3: https://mdisk.thopdbapp.workers.dev/?url=dYHpFp
@@ -29,6 +31,7 @@ ep4: https://mdisk.thopdbapp.workers.dev/?url=LQKH1H
 ep5: https://mdisk.thopdbapp.workers.dev/?url=GYb9GN
 ep6: https://mdisk.thopdbapp.workers.dev/?url=AygZLT
 ep7: https://mdisk.thopdbapp.workers.dev/?url=zCoznb
+ep8: https://mdisk.thopdbapp.workers.dev/?url=Kci0Jl
 dir: Patrick McKay, John D. Payne
 ---
 
