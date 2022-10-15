@@ -10,7 +10,7 @@ description: "Kantara (2022) Full Movie Download and watch online 720p low file 
 trailer: https://www.youtube.com/watch?v=eWb89ymiRow
 480p: https://mdisk.thopdbapp.workers.dev/?url=NH14Mz
 720p: https://mdisk.thopdbapp.workers.dev/?url=EG2VYp
-1080p: https://mdisk.thopdbapp.workers.dev/?url=EG2VYp
+1080p: https://mdisk.thopdbapp.workers.dev/?url=h1NYyi
 dw480p: https://reel.thopdb.com/dw?id=1yMiFpxhmTAbz3W80WD5cbjAFGtsiISew
 dw720p: https://reel.thopdb.com/dw?id=1CUv22UPoPWpnbpG2Tc9gjn-0yZpyVhdS
 dw1080p: https://reel.thopdb.com/dw?id=1ULjdrsqDzyQCvpq5VmzwfCsWZSULf0dx
