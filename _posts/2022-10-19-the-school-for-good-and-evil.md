@@ -6,11 +6,11 @@ tags: [Kit Young, Sophia Anne Caruso, Cate Blanchett]
 qua: HD
 lag: Telugu + Tamil + Hindi + English
 image: assets/images/the-school-for-good-and-evil.jpg
-description: "The School for Good and Evil  (2022) Telugu Full Movie Download and watch online 720p low file size 500 mb."
-trailer: https://www.youtube.com/watch?v=7FkadwuxoSA
-480p: https://mdisk.thopdbapp.workers.dev/?url=qEvxf7
-720p: https://mdisk.thopdbapp.workers.dev/?url=2WWvqL
-1080p: https://mdisk.thopdbapp.workers.dev/?url=yJ1Ggs
+description: "The School for Good and Evil  (2022)  Full Movie Download and watch online 720p low file size 500 mb."
+trailer: https://www.youtube.com/watch?v=aftysDQ4hpI
+480p: https://mdisk.thopdbapp.workers.dev/?url=WhnyMz
+720p: https://mdisk.thopdbapp.workers.dev/?url=qDzp9b
+1080p: https://mdisk.thopdbapp.workers.dev/?url=643pT8
 dw480p: https://reel.thopdb.com/dw?id=1feUImmnEXYiHKOQA_slE7ew8jSsR4nFr
 dw720p: https://reel.thopdb.com/dw?id=1dIzNF_sBDgzDjoro4dffy7CkpbcEbkbr
 dw1080p: https://reel.thopdb.com/dw?id=1PStkrc-ZJuD-AkxDeMPCbTVW5MFZ--G_
