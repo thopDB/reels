@@ -7,9 +7,9 @@ tags: [Aishwarya Lekshmi, Naveen Chandra, Bobby Simha]
 image: assets/images/Ammu-1.jpg
 description: "Ammu (2022) Full Movie Download and watch online 720p low file size 500 mb."
 trailer: https://www.youtube.com/watch?v=eWb89ymiRow
-480p: https://mdisk.thopdbapp.workers.dev/?url=
-720p: https://mdisk.thopdbapp.workers.dev/?url=
-1080p: https://mdisk.thopdbapp.workers.dev/?url=
+480p: https://mdisk.thopdbapp.workers.dev/?url=D0CuXK
+720p: https://mdisk.thopdbapp.workers.dev/?url=D0CuXK
+1080p: https://mdisk.thopdbapp.workers.dev/?url=NBS8GH
 dw480p: https://reel.thopdb.com/dw?id=1VGE3V8L2ISGqrt1fD1TJMWlz0aMArA44
 dw720p: https://reel.thopdb.com/dw?id=1WwG0t_D5ew_urDgSt6z_oFunE6jjnjWr
 dw1080p: https://reel.thopdb.com/dw?id=1oiesBnwJzM8sUZdApKsc15JI-nHQrSeY
