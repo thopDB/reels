@@ -42,18 +42,12 @@ function getUrlVars() {
     return vars;
 }
 var id = getUrlVars()["id"];
-document.write('<div class="buttonInfo"><a class="button" href="https://drive.shakib.cyou/sam.php?id='+id+'" id="makingdifferenttimer" style="display: none;"><i class="fas fa-download"></i></i>Download</a>
-<div id="mdtimer">
-<b></b>
-<div style="font-size: large;">
-<b>Please Wait <span>10</span> seconds</b></div>
-</div>
-</div>');
+document.write('<div class="buttonInfo"><a class="button" href="https://drive.shakib.cyou/sam.php?id='+id+'" id="makingdifferenttimer" style="display: none;"><i class="fas fa-download"></i></i>Download</a></div><div id="mdtimer"><b></b><div style="font-size: large;"><b>Please Wait <span>5</span> seconds</b></div></div>');
 //]]>
 </script>
 <script type='text/javascript'>
 jQuery(document).ready(function() {
-var sec = 10
+var sec = 5
 var timer = setInterval(function() {
    $("#mdtimer span").text(sec--);
    if (sec == 0) {
