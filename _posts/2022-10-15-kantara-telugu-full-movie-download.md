@@ -15,6 +15,7 @@ dw480p: https://reel.thopdb.com/dw?id=1yMiFpxhmTAbz3W80WD5cbjAFGtsiISew
 dw720p: https://reel.thopdb.com/dw?id=1CUv22UPoPWpnbpG2Tc9gjn-0yZpyVhdS
 dw1080p: https://reel.thopdb.com/dw?id=1ULjdrsqDzyQCvpq5VmzwfCsWZSULf0dx
 dir: Rishab Shetty
+featured: true
 ---
 
 ### Kantara (2022) Full Movie Download Story Line:
