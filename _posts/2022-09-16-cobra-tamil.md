@@ -10,7 +10,6 @@ trailer: https://www.youtube.com/watch?v=sHSDmNhaevQ
 download: https://download2274.fastdl.in/index.php?id=6bp29chwghu0
 watch: https://mdisk.thopdbapp.workers.dev/?url=kRNEPH
 dir: R. Ajay Gnanamuthu
-featured: true
 ---
 
 ### Story Line:
