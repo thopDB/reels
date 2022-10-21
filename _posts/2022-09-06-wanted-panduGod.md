@@ -9,7 +9,6 @@ trailer: https://www.youtube.com/watch?v=HPbmsi7fhxU
 download: https://www1.thopdb.com/?url=ohCE8Z
 watch: https://mdisk.thopdbapp.workers.dev/?url=ohCE8Z
 dir: Sreedhar Seepana
-featured: true
 ---
 
 ### Story Line:
