@@ -1,7 +1,7 @@
 ---
 layout: multi-post
 title:  "Bimbisara (2022)"
-categories: [ Telugu,MultiAudio ]
+categories: [ Telugu ]
 tags: [Nandamuri Kalyan Ram,Catherine Tresa,Samyuktha Menon,Prakash Raj]
 qua: HD
 image: assets/images/bimbisara.jpg
