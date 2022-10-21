@@ -14,6 +14,7 @@ dw480p: https://reel.thopdb.com/dw?id=1g1hX17HmHkvq6XR7JthQuBVOxLU8EDGT
 dw720p: https://reel.thopdb.com/dw?id=1WR0S7AeNF83Lqz3F5dwsYKEXjyfxtx6m
 dw1080p: https://reel.thopdb.com/dw?id=1TNyHRdDtKbhgJhAk9g-t2bDpEtVxL09d
 dir: Kranthi Saina
+featured: true
 ---
 
 ### Story Line:
