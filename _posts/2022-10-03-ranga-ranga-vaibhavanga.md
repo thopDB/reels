@@ -14,7 +14,6 @@ dw480p: https://drive.shakib.cyou/sam.php?id=1xVS27C8agB_yDgDWFy2QG7JaiCcS9ayc
 dw720p: https://drive.shakib.cyou/sam.php?id=14SuWBrVPACrQJJcNCb4x9R3_mN7oAt83
 dw1080p: https://drive.shakib.cyou/sam.php?id=1VOGxSskRJS9ZnE8kbtCAPLpXtLNsuqHT
 dir: Gireesaaya
-featured: true
 ---
 
 ### Story Line:
