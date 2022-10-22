@@ -9,7 +9,7 @@ description: "Kavisamrat 2022 Telugu Full Movie Download and watch online 720p l
 trailer: https://www.youtube.com/watch?v=BTo8nH9rHgQ
 download: https://reel.thopdb.com/dw?id=1rbGt-q3JjHcReIbgXB39idYz6refAVx1
 watch: https://mdisk.thopdbapp.workers.dev/?url=TNeyYQ
-dir: Puri Jagannadh
+dir: Savithcchandra
 ---
 
 ### Story Line:
