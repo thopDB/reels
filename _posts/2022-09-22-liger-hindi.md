@@ -8,8 +8,8 @@ tags: [Vijay Deverakonda, Ananya Panday, Ramya Krishnan]
 image: assets/images/liger.jpg
 description: "Liger 2022 Telugu Full Movie Download and watch online 720p low file size 500 mb."
 trailer: https://www.youtube.com/watch?v=koYN8qSk_Us
-download: https://download2274.fastdl.in/index.php?id=5m5oo4h2ujb6
-watch: https://mdisk.thopdbapp.workers.dev/?url=M5b6eC
+download: https://reel.thopdb.com/dw?id=1StSGu0rAVABCQIDQzxEamP0jRHnlJovV
+watch: https://mdisk.thopdbapp.workers.dev/?url=puiOxN
 dir: Puri Jagannadh
 ---
 
