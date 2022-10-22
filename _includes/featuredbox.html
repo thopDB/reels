@@ -1,5 +1,8 @@
 <article id="post-11368" class="post hentry">
 <div class="post-thumb">
+{% if post.qua %}
+ {% include qua.html %}
+ {% endif %}
 <a href="{{ site.baseurl }}{{ post.url }}" rel="bookmark">
 {% if post.image %}
 
@@ -10,7 +13,11 @@
                     {% endif %}
 
                 {% endif %}
-</a></div>
+</a>
+{% if post.lag %}
+ {% include lag.html %}
+ {% endif %}
+</div>
 <h2 class="entry-title">
 <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
 <!--<span>2022</span>-->
