@@ -55,7 +55,16 @@ paginate: 12
 paginate_path: /page:num/
 paginate_category_basepath: '/category/:name/'
 paginate_category_layout: 'archive.html'
-    
+
+ autopages:
+  enabled: true
+  categories:
+    title: 'Posts in category :cat'
+  tags:
+    title: 'Posts tagged with :tag'
+  collections:
+    title: 'Posts in collection :coll'
+       
 # Other
 markdown: kramdown
 
