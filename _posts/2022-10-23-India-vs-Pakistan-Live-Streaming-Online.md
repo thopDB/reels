@@ -6,6 +6,7 @@ tags: [india vs Pak Live,T20 WorldCup Live Streaming]
 image: assets/images/indvspk.jpg
 description: "india vs Pak Live T20 WorldCup Live Streaming mobile,desktop and android tv 720p Quality low data consume"
 dir: india vs pak
+featured: true
 ---
 
 ### Ind vs Pak Live Streaming online:
