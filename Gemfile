@@ -11,6 +11,6 @@ group :jekyll_plugins do
   gem 'jekyll-paginate-v2', '3.0.0'
   gem 'jekyll-last-modified-at', '1.3.0'
   gem 'jekyll-archives', '2.2.1'
-  gem 'kramdown'
-  gem 'rouge'
+  gem 'kramdown','0.1.0'
+  gem 'rouge','0.1.0'
 end
