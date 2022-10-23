@@ -5,13 +5,13 @@ categories: [ Telugu ]
 tags: [india vs Pak Live,T20 WorldCup Live Streaming]
 image: assets/images/indvspk.jpg
 description: "india vs Pak Live T20 WorldCup Live Streaming mobile,desktop and android tv 720p Quality low data consume"
+watch: https://snehplay.mitthu.workers.dev/?go=https://cdncloudflare.anonymouscdn.cfd/live/hls/hindi480p.m3u8
 dir: india vs pak
 featured: true
 ---
 
 ### Ind vs Pak Live Streaming online:
-india vs Pak Live T20 WorldCup Live Streaming mobile,desktop and android tv 720p Quality low data consume complete free 
-<iframe allowfullscreen="yes" height="550" sandbox="allow-scripts allow-same-origin" scrolling="no" src="https://m.live4wap.xyz/embed.php" width="100%"></iframe>
+india vs Pak Live T20 WorldCup Live Streaming mobile,desktop and android tv 720p Quality low data consume complete free
 <p>Live Cricket Streaming and Watch Live Cricket Online Streaming on our website CricHD. CricHD provides free cricket live stream.</p>
 free live tv channels live cricket streaming,
 live cricket ipl,
