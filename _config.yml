@@ -52,8 +52,7 @@ jekyll-archives:
 # Pagination 
 paginate: 12
 paginate_path: /page:num/
-paginate_category_basepath: '/category/:name/'
-paginate_category_layout: 'telugu.html'
+
        
 # Other
 markdown: kramdown
