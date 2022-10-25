@@ -14,7 +14,6 @@ dw480p: https://reel.thopdb.com/dw?id=1RQnob6Fya4OeKf__a5a5qj8nw9aNDf6d
 dw720p: https://reel.thopdb.com/dw?id=1BbMPAXWYBGWEyOvVjubqFKP8Q2TUD8aT
 dw1080p: https://reel.thopdb.com/dw?id=1dBOAQ_2P2YMskbMGlJrEx7BiNKwiRZAk
 dir: Lakshman K Krishna
-featured: true
 ---
 
 ### Swathi Muthyam (2022) Full movie download Story Line:
