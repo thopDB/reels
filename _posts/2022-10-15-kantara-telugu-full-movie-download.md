@@ -16,7 +16,7 @@ dw480p2: https://reel.thopdbapp.workers.dev/reel.thopdb.com%20-%20Kantara%20(202
 dw720p: https://reel.thopdb.com/dw?id=1CUv22UPoPWpnbpG2Tc9gjn-0yZpyVhdS
 dw720p2: https://reel.thopdbapp.workers.dev/reel.thopdb.com%20-%20Kantara%20(2022)%20[Telugu%20-%20720p%20Proper%20HQ%20PreDVDRip%20-%20x264%20-%20AAC%20-%20950MB%20-%20HQ%20Line%20Audio].mkv
 dw1080p: https://reel.thopdb.com/dw?id=1ULjdrsqDzyQCvpq5VmzwfCsWZSULf0dx
-dw1080p: https://reel.thopdbapp.workers.dev/reel.thopdb.com%20-%20Kantara%20(2022)%20[Telugu%20-%201080p%20Proper%20HQ%20PreDVDRip%20-%20x264%20-%20AAC%20-%202.3GB%20-%20HQ%20Line%20Audio].mkv
+dw1080p2: https://reel.thopdbapp.workers.dev/reel.thopdb.com%20-%20Kantara%20(2022)%20[Telugu%20-%201080p%20Proper%20HQ%20PreDVDRip%20-%20x264%20-%20AAC%20-%202.3GB%20-%20HQ%20Line%20Audio].mkv
 dir: Rishab Shetty
 featured: true
 ---
