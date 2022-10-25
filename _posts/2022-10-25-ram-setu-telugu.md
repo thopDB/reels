@@ -11,8 +11,11 @@ trailer: https://www.youtube.com/watch?v=VgGgYOzNWno
 720p: https://mdisk.thopdbapp.workers.dev/?url=mODl7b
 1080p: https://mdisk.thopdbapp.workers.dev/?url=r3gH1c
 dw480p: https://reel.thopdb.com/dw?id=1VuGAdjiYuXumhOw1FRM_FPtzdLwg7VHM
+dw480p2: https://reel.thopdbapp.workers.dev/reel.thopdb.com%20-%20Ram%20Setu%20(2022)%20Telugu%20Proper%20HQ%20PreDVD%20-%20400MB%20-%20x264%20-%20HQ%20Clean%20Aud.mkv
 dw720p: https://reel.thopdb.com/dw?id=1wFpigZ5WlSGrEiYnHAHfwb627gP7avLl
+dw720p2: https://reel.thopdbapp.workers.dev/reel.thopdb.com%20-%20Ram%20Setu%20(2022)%20Telugu%20Proper%20HQ%20PreDVD%20-%20720p%20-%20x264%20-%20HQ%20Clean%20Aud%20-%201.4GB.mkv
 dw1080p: https://reel.thopdb.com/dw?id=135PGZs1-BjKcKavg6QFu8_X7SogSLMMM
+dw1080p2: https://reel.thopdbapp.workers.dev/reel.thopdb.com%20-%20Ram%20Setu%20(2022)%20Telugu%20Proper%20HQ%20PreDVD%20-%201080p%20-%20x264%20-%20HQ%20Clean%20Aud%20-%202.5GB.mkv
 dir: Abhishek Sharma
 featured: true
 ---
