@@ -10,9 +10,9 @@ trailer: https://www.youtube.com/watch?v=x-sgnhYJGOA
 480p: https://mdisk.thopdbapp.workers.dev/?url=yrh1AE
 720p: https://mdisk.thopdbapp.workers.dev/?url=MTqGUg
 1080p: https://mdisk.thopdbapp.workers.dev/?url=mXDH2L
-dw480p: https://reel.thopdb.com/dw?id=1BLm43NT9Nkd03oAmABh1hk5KxJUTv8vw
-dw720p: https://reel.thopdb.com/dw?id=1EDt9jlsb4o6FTK-2rzCXhsBmPzw8FZ2i
-dw1080p: https://reel.thopdb.com/dw?id=1BR7lzLYlutZbHzp7Os48SLC6Im6xNgM8
+dw480p: https://reel.thopdb.com/dw?id=19MTKJv_TCbyVxda1-JRrTrYQ1HWvnHeB
+dw720p: https://reel.thopdb.com/dw?id=1sFt1hwVhNb4HwdGKtufvJ4QcZ3OUYsGC
+dw1080p: https://reel.thopdb.com/dw?id=1EndJ9ncCryTolotjrEePeV-srlO_0tes
 dir: Indra Kumar
 featured: true
 ---
