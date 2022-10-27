@@ -10,9 +10,9 @@ trailer: https://www.youtube.com/watch?v=VgGgYOzNWno
 480p: https://mdisk.thopdbapp.workers.dev/?url=OxGx7B
 720p: https://mdisk.thopdbapp.workers.dev/?url=wFal9m
 1080p: https://mdisk.thopdbapp.workers.dev/?url=J9WTCC
-dw480p: https://reel.thopdb.com/dw?id=15nj0Wrtw6k49xxRNsisU8hZPn2MzG8nj
-dw720p: https://reel.thopdb.com/dw?id=1tFMkaTs_ixT2_PV_CFol8pzUhlA4Ki1s
-dw1080p: https://reel.thopdb.com/dw?id=1dMnwAn71nUmA5UDXWxhPIC1HdDgRl3uo
+dw480p: https://reel.thopdb.com/dw?id=1EyWT339m-fZ8v_n1t9ZwgxXYY6gB_22V
+dw720p: https://reel.thopdb.com/dw?id=1c72p1xu4yzxxtYSq7bJmVThqaQEW19Zn
+dw1080p: https://reel.thopdb.com/dw?id=1xynOUim5Qb-nIIF8jNwnLUDQqqOD2xqZ
 dir: Abhishek Sharma
 featured: true
 ---
