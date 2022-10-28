@@ -10,9 +10,9 @@ trailer: https://www.youtube.com/watch?v=0odLpTURtIU
 480p: https://mdisk.thopdbapp.workers.dev/?url=5MDB4d
 720p: https://mdisk.thopdbapp.workers.dev/?url=JMhqhA
 1080p: https://mdisk.thopdbapp.workers.dev/?url=0443iH
-dw480p: https://reel.thopdb.com/dw?id=1mWnDgRxY5TMb6_V8UAE3IyDZ6dwUKQ6g
-dw720p: https://reel.thopdb.com/dw?id=1f3eS6FKo2XRBWMIY--Wb1pawY8_0qA3e
-dw1080p: https://reel.thopdb.com/dw?id=1a6gupkjWkci_N0Vuf57b2l4MEd6hWFYE
+dw480p: https://reel.thopdb.com/dw?id=1s5yktpPiirXSky-ktCuEb_jKO9BCSdf_
+dw720p: https://reel.thopdb.com/dw?id=1Dsegbsf08-44600fxcVWo8vEJ1xGfawW
+dw1080p: https://reel.thopdb.com/dw?id=1N2YHDzPcQQQBG7SGX8L3ZFkUEp3Qzxcz
 dir: Ashwath Marimuthu
 featured: true
 ---
