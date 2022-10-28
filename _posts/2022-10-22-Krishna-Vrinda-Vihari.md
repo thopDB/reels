@@ -14,7 +14,6 @@ dw480p: https://reel.thopdb.com/dw?id=1G5wJupgT9itS9TgHLZAqnNN4BHRKH0Bd
 dw720p: https://reel.thopdb.com/dw?id=1KlfvIZ5d2OkFd97kjO8FXJhVQ81m8OTE
 dw1080p: https://reel.thopdb.com/dw?id=1Jg3LSVZgfUVgtDLZ9vdZIEMph75jqIVt
 dir: Aneesh Krishna
-featured: true
 ---
 
 ### Story Line:
