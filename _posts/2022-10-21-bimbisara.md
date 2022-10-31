@@ -14,7 +14,6 @@ dw480p: https://reel.thopdb.com/dw?id=1M2quQeo8jKtaHgNlZxOCS3yGrXeHplLR
 dw720p: https://reel.thopdb.com/dw?id=1HWV2zEjeirUkq2l87z-ZjYxGS2795CGP
 dw1080p: https://reel.thopdb.com/dw?id=1_XBgu52s_kque0rJ5whU7aSmTPGn4BpS
 dir: Mallidi Vasishta
-featured: true
 ---
 
 ### Story Line:
