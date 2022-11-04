@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: multi-post
 title:  "Brahmastra: Part One – Shiva (2022)"
 categories: [ Telugu,Hindi,MultiAudio ]
 qua: HD
