@@ -10,7 +10,7 @@ description: "Brahmastra (2022) Full Movie Download and watch online 720p low fi
 trailer: https://www.youtube.com/watch?v=2p1-bTCEFj4
 480p: https://mdisk.thopdbapp.workers.dev/?url=9Uztn0
 720p: https://mdisk.thopdbapp.workers.dev/?url=xEMYiv
-1080p: https://mdisk.thopdbapp.workers.dev/?url=xEMYiv
+1080p: https://mdisk.thopdbapp.workers.dev/?url=TBdJmr
 dw480p: https://reel.thopdb.com/dw?id=1Y0c8UFqlVKdd0ur9JPHmbPJG34QMx0fm
 dw480p1: https://mdb9.blogspot.com/2021/12/omicron-virus-information.html#?o=54b1c063112af569000fbfba33d881782540ae52e89a6f6e8bae84a9d5dc6f8079c1f8342fca6f0df55dfe751f30abeaf42a3ce91172f44e8fb23b353fbe089c988a3b2663f1ed7536a23a230b57ee8b5e983c8a08f875a3727e21fb4a8852408c9cd4bbc089476ff7a40237019040e7dc7bf4002a2870a6b34e49c4fd92e6e005b03f8fc250355460c6927df9b8f2c65f41d4e417cb67939449a8fe5588a21fd9531f9616a14ee39d0dd2e5d52f2054652b943b47326a7bc4dccec88aeae3057aa7c3f84306bd04
 dw720p: https://reel.thopdb.com/dw?id=1vgFml02_wAa2PAnJuDOuiYz_bMZMpZq1
@@ -18,6 +18,7 @@ dw720p1: https://mdb9.blogspot.com/2021/12/the-most-expensive-keywords-2021.html
 dw1080p: https://reel.thopdb.com/dw?id=19RZJF8CBSgfCC-eRFMWG800MVw7nA00d
 dw1080p1: https://mdb9.blogspot.com/2021/12/the-most-expensive-keywords-2021.html#?o=7d31470e2afb53c25efe4d8dc73dfb32daac876769b4043cacd9c5608cbc6608d30f1677a8717013fe9ef6e1393e14a2396a98ac8643de9c7ea4fbf071ba6a4fa0581e6b395680c156a8f3d0c2750e34d58ce1f5b748770c49f0b4c980c4a49be5dc118eeafcdb88aacf442af3457c30161ef49d401fb6a1a360fa6b6a40feaa1b4cec3be81b868dc4e4719fc5c50176f0bacdef08dacb46e489a7b4daf063f20a58b4c9f879ad7a83312745792aff2b1a276d9d0cf029a9aad23dcb243727785dd41785dd360a8302a030aa3b35244aabcb0d9ea6e130ed072ca6e6ba10da06e4dd5b60fa93e307
 dir: Ayan Mukerji
+featured: true
 ---
 
 ### Story Line:
