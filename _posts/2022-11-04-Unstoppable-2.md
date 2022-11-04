@@ -11,8 +11,10 @@ ep-name1: "S02 EP 01: NBK with CBN"
 ep-name2: "S01 EP 02: NBK with Viswak Sen and Siddhu"
 ep-dw1: https://reel.thopdb.com/dw?id=1lfiAZYbLMtXd-fmFGpS7lRf168iNRM9i
 ep-dw2: https://reel.thopdb.com/dw?id=1v37OYCslc75T-FYf8kMCxz9oMCGgayjs
+ep-dw3: https://reel.thopdb.com/dw?id=1Lom2YDnI4_fsuApDFD69Tut230xuAZEa
 ep1: https://mdisk.thopdbapp.workers.dev/?url=yPht5o
 ep2: https://mdisk.thopdbapp.workers.dev/?url=PPAUYL
+ep3: https://mdisk.thopdbapp.workers.dev/?url=63UxAr
 dir: Percival Salvador
 ---
 
