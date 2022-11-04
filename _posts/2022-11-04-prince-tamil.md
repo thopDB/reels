@@ -3,7 +3,7 @@ layout: multi-post
 title:  "Prince (2022)"
 categories: [ Tamil]
 tags: [Sivakarthikeyan, Maria Ryaboshapka, Sathyaraj]
-qua: Dvdscr
+qua: HD
 lag: Tamil
 image: assets/images/prince.jpg
 description: "prince (2022) Tamil Full Movie Download and watch online 720p low file size 500 mb."
