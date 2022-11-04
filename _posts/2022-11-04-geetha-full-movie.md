@@ -9,7 +9,7 @@ description: "Geetha (2022) Full Movie Download and watch online 720p low file s
 trailer: https://www.youtube.com/watch?v=pocWQ0QzIEo
 480p: https://mdisk.thopdbapp.workers.dev/?url=YuagRb
 720p: https://mdisk.thopdbapp.workers.dev/?url=XvLQ0C
-1080p: https://mdisk.thopdbapp.workers.dev/?url=XvLQ0C
+1080p: https://mdisk.thopdbapp.workers.dev/?url=G3tOMS
 dw480p: https://reel.thopdb.com/dw?id=1dhb1AMDtjB6u-U3iW0TJhh7_-eM_-bz3
 dw480p2: https://mdb9.blogspot.com/2021/12/the-most-expensive-keywords-2021.html#?o=abdb57a7a111d168cb864421bd633385c93859b512bced47f1361ee7a7b996742442baad3c2051660966c04c02489b165715cdea68b098f01e2c92afdd2ff499800243bb65d3ebcb422a15fa39cbcc60aad03923b54c3ed376063a3a9e54c58c7e3ce3912a38d3a1b416f86f0c273e60690e7705d3a3ff214a91852556a2d62237329afeac2ad23ad750bf3d88003fbd5cdde4715f76e77e
 dw720p: https://reel.thopdb.com/dw?id=1HA-woDbpfUb3ufXCckJyn6ijDOTPKw5M
