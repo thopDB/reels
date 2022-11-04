@@ -12,11 +12,11 @@ trailer: https://www.youtube.com/watch?v=5PSNL1qE6VY
 720p: https://mdisk.thopdbapp.workers.dev/?url=ICbtvw
 1080p: https://mdisk.thopdbapp.workers.dev/?url=ICbtvw
 dw480p: https://reel.thopdb.com/dw?id=1Ts53uqIlB7QLLoLnwA6Cp5pl-AHqR1R5
-dw480p1: https://reel.thopdbapp.workers.dev/0:/Reel.thopdb.com%20-%20K.G.F.Chapter.2.2022.480p.AMZN.WebRip.Multi.AAC2.0.H.264-themoviesboss.mkv
+dw480p2: https://reel.thopdbapp.workers.dev/0:/Reel.thopdb.com%20-%20K.G.F.Chapter.2.2022.480p.AMZN.WebRip.Multi.AAC2.0.H.264-themoviesboss.mkv
 dw720p: https://reel.thopdb.com/dw?id=18Yt8106UFpnHTrQ3rSO8U0doq60cG9vO
-dw720p1: https://reel.thopdbapp.workers.dev/0:/reel.thopdb.com%20-%20K.G.F%20Chapter%202%20(Telugu)%20(2022)%20720p%20AMZN%20WEB-DL%20x265%20[Telugu%20(DD+%205.1%20-%20192Kbps%20&%20AAC%202.0)]%20MSub.mkv
+dw720p2: https://reel.thopdbapp.workers.dev/0:/reel.thopdb.com%20-%20K.G.F%20Chapter%202%20(Telugu)%20(2022)%20720p%20AMZN%20WEB-DL%20x265%20[Telugu%20(DD+%205.1%20-%20192Kbps%20&%20AAC%202.0)]%20MSub.mkv
 dw1080p: https://reel.thopdb.com/dw?id=1mX9gmzHlOac-8BTWAqVi2xsM_zxqF92j
-dw1080p1: https://reel.thopdbapp.workers.dev/0:/reel.thopdb.com%20-%20K.G.F.Chapter.2.2022.1080p.AMZN.WebRip.Multi.DD5.1.H.264-themoviesboss.mkv
+dw1080p2: https://reel.thopdbapp.workers.dev/0:/reel.thopdb.com%20-%20K.G.F.Chapter.2.2022.1080p.AMZN.WebRip.Multi.DD5.1.H.264-themoviesboss.mkv
 dir: Prashanth Neel
 ---
 
