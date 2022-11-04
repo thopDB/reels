@@ -4,7 +4,7 @@ title:  "Phone Bhoot (2022)"
 categories: [ Hindi ]
 tags: [Taapsee Pannu, Shriya Saran, Ali Fazal]
 qua: HD
-image: assets/images/phone-bhoot.jpg
+image: assets/images/pb.jpg
 description: "Phone Bhoot (2022) Full Movie Download and watch online 720p low file size 500 mb."
 trailer: https://www.youtube.com/watch?v=5fTVslrPsL0
 480p: https://mdisk.thopdbapp.workers.dev/?url=MSF9uC
