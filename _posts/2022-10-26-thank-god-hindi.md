@@ -14,7 +14,6 @@ dw480p: https://reel.thopdb.com/dw?id=19MTKJv_TCbyVxda1-JRrTrYQ1HWvnHeB
 dw720p: https://reel.thopdb.com/dw?id=1sFt1hwVhNb4HwdGKtufvJ4QcZ3OUYsGC
 dw1080p: https://reel.thopdb.com/dw?id=1EndJ9ncCryTolotjrEePeV-srlO_0tes
 dir: Indra Kumar
-featured: true
 ---
 
 ### Thank God (2022) Full movie download Story Line:
