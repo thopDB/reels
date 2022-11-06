@@ -2,6 +2,7 @@
 layout: post
 title:  "T20 WORLD CUP 2022 Live Streaming Online"
 categories: [ T20 World Cup Live ]
+qua: Live
 tags: [india vs Pak Live,T20 WorldCup Live Streaming]
 image: assets/images/t20worldcup.jpeg
 description: "T20 WorldCup Live Streaming mobile,desktop and android tv 720p Quality low data consume"
