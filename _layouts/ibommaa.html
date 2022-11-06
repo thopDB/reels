@@ -246,6 +246,37 @@ SimpleJekyllSearch({
 	<link rel="stylesheet" href="https://fontawesome.com/v3/assets/font-awesome/css/font-awesome.css"/>
 	<script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=631c0e87a6e546001246888b&product=sop' async='async'></script>
 	<script type="text/javascript">$(document).ready(function(){$(document).bind("cut copy paste",function(n){n.preventDefault()}),$(document).on("contextmenu",function(n){return!1})});</script>
-<script id="_waux2i">var _wau = _wau || []; _wau.push(["small", "dg1heek2j7", "x2i"]);</script><script async src="//waust.at/s.js"></script>
+  <script type='text/javascript'>
+    var isCtrl = false;
+    document.onkeyup=function(e)
+    {
+    if(e.which == 17)
+    isCtrl=false;
+    }
+    document.onkeydown=function(e)
+    {
+    if(e.which == 17)
+    isCtrl=true;
+    if((e.which == 85) || (e.which == 67) &amp;&amp; isCtrl == true)
+    {
+    // alert(&#8216;Keyboard shortcuts are cool!&#8217;);
+    return false;
+    }
+    }
+    var isNS = (navigator.appName == "Netscape") ? 1 : 0;
+    if(navigator.appName == "Netscape") document.captureEvents(Event.MOUSEDOWN||Event.MOUSEUP);
+    function mischandler(){
+    return false;
+    }
+    function mousehandler(e){
+    var myevent = (isNS) ? e : event;
+    var eventbutton = (isNS) ? myevent.which : myevent.button;
+    if((eventbutton==2)||(eventbutton==3)) return false;
+    }
+    document.oncontextmenu = mischandler;
+    document.onmousedown = mousehandler;
+    document.onmouseup = mousehandler;
+    </script>
+  <script id="_waux2i">var _wau = _wau || []; _wau.push(["small", "dg1heek2j7", "x2i"]);</script><script async src="//waust.at/s.js"></script>
 	</body>
 </html>
