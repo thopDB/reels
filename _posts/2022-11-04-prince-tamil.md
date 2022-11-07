@@ -15,7 +15,6 @@ dw480p: https://reel.thopdb.com/dw?id=1RKmjCrb3FBJLAFwZUA5_a-G8mg9R-azQ
 dw720p: https://reel.thopdb.com/dw?id=1sQ0d5ayPGVmNyVdmAPQghXdY5MHK8jaT
 dw1080p: https://reel.thopdb.com/dw?id=1u0Ndry0I6UC0SaZuPnLUHs0P5S1iNBOm
 dir: Anudeep K.V
-featured: true
 ---
 
 ### Story Line:
