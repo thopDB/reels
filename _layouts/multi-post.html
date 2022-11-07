@@ -35,11 +35,9 @@ post_class: post-template
  {% endif %}
 </div>
 </div></div>
-<div class="views">
-  <span class="views">
-      <img src="https://visitor-badge.glitch.me/badge?page_id={{ post.url }}" alt="Views"/>
-  </span>
-</div>
+<span class="views" style="margin-left: 12px;">
+  <img src="https://visitor-badge.glitch.me/badge?page_id={{ post.url | prepend: site.baseurl | prepend: site.url }}" alt="Views"/>
+</span>
 <div class="ibomma-buttons">
  {% if page.trailer %}
  {% include trailer.html %}
