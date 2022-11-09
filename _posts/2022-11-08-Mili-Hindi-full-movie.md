@@ -10,11 +10,11 @@ trailer: https://www.youtube.com/watch?v=JTz6u0MMN68
 480p: https://mdisk.thopdbapp.workers.dev/?url=n7IvLf
 720p: https://mdisk.thopdbapp.workers.dev/?url=DUUK4Q
 1080p: https://mdisk.thopdbapp.workers.dev/?url=XsuKIR
-dw480p: https://reel.thopdb.com/dw?id=1dW4aNvC6m8rV2NbOcvedBStUJ0sDIRQu/view
+dw480p: https://reel.thopdb.com/dw?id=1dW4aNvC6m8rV2NbOcvedBStUJ0sDIRQu
 dw480p2: https://reel.thopdb.com/dir?id=reel.thopdb.com-Mili%20(2022)%20Hindi%20Full%20Movie%20PreDVD%20480p.mkv
-dw720p: https://reel.thopdb.com/dw?id=1ikt0kAIpBhUzfAvTIBSWDa6ZYZwa5yto/view
+dw720p: https://reel.thopdb.com/dw?id=1ikt0kAIpBhUzfAvTIBSWDa6ZYZwa5yto
 dw720p2: https://reel.thopdb.com/dir?id=reel.thopdb.com-Mili%20(2022)-Hindi%20Full%20Movie%20PreDVD%20720p.mkv
-dw1080p: https://reel.thopdb.com/dw?id=1b7rsOWjgaRs_mL4ldffxlT2h5iGKqLHN/view
+dw1080p: https://reel.thopdb.com/dw?id=1b7rsOWjgaRs_mL4ldffxlT2h5iGKqLHN
 dw1080p2: https://reel.thopdb.com/dir?id=reel.thopdb.com-Mili%20(2022)%20Hindi%20Full%20Movie%20PreDVD%201080p.mkv
 dir: Mathukutty Xavier
 featured: true
