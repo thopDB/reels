@@ -8,8 +8,8 @@ image: assets/images/Breathe-Into-the-Shadows-2022-S02.jpg
 description: "Breathe: Into the Shadows S02 (2022) Full Movie Download and watch online 720p low file size 500 mb."
 trailer: https://www.youtube.com/watch?v=PmszhTURCS0
 480p: https://mdisk.thopdbapp.workers.dev/?url=EJ2hwb
-720p: https://mdisk.thopdbapp.workers.dev/?url=EJ2hwb
-1080p: https://mdisk.thopdbapp.workers.dev/?url=EJ2hwb
+720p: https://mdisk.thopdbapp.workers.dev/?url=G7Subv
+1080p: https://mdisk.thopdbapp.workers.dev/?url=G7Subv
 dw480p: https://reel.thopdb.com/dw?id=13NmUOqBIivQ7oxtedD7JnppPjMK-n6Ha
 dw480p2: https://reel.thopdb.com/dir?id=REEL.THOPDB.COM%20-%20Breathe%20Into%20the%20Shadows%202022S02%20Hindi%20AMZN%20Web%20Series%20480p%20HDRip%20ESub%201.1GB.mkv
 dw720p: https://reel.thopdb.com/dw?id=1sGd70bgXIER0UMUVE5alYX8FwkqTk9Ue
