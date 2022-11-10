@@ -36,14 +36,7 @@ post_class: post-template
 </div>
 </div></div>
 <!-- page views -->
-{% if site.google_analytics.pv.proxy_endpoint or site.google_analytics.pv.cache_path %}
-<span>
-  <em id="pv" class="pageviews">
-    <i class="fas fa-spinner fa-spin fa-fw"></i>
-  </em>
-  {{ site.data.locales[site.lang].post.pageview_measure }}
-</span>
-{% endif %}
+<img src="https://visitor-badge.glitch.me/badge?page_id={{ page.title }}" alt="visitor badge"/>
 <div class="ibomma-buttons">
  {% if page.trailer %}
  {% include trailer.html %}
