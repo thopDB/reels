@@ -1,18 +1,19 @@
 ---
 layout: multi-post
 title:  "Sardar (2022)"
-categories: [ Telugu ]
+categories: [ Telugu,Tamil,MultiAudio ]
 tags: [Karthi,Raashii Khanna,Rajisha Vijayan,Chunky Pandey,Laila]
-qua: Dvdscr
+qua: HD
+lag: Telugu + Tamil
 image: assets/images/sardar-1.jpg
 description: "Sardar (2022) Full Movie Download and watch online 720p low file size 500 mb."
 trailer: https://www.youtube.com/watch?v=8OQzz_i3KFE
-480p: https://mdisk.thopdbapp.workers.dev/?url=ablmL3
-720p: https://mdisk.thopdbapp.workers.dev/?url=2chgvX
-1080p: https://mdisk.thopdbapp.workers.dev/?url=sR0Xt5
-dw480p: https://reel.thopdb.com/dw?id=1B1mlxFJ4hbys6T0a-Q1Gib7PSkMqX-OI
-dw720p: https://reel.thopdb.com/dw?id=18VmwLvNJFrhnbMEgclI1_ab8UIiVojFc
-dw1080p: https://reel.thopdb.com/dw?id=1gwCaOyPMjvK1Uf2UBllmpY06nrM9XzgE
+480p: https://mdisk.thopdbapp.workers.dev/?url=sMvgkP
+720p: https://mdisk.thopdbapp.workers.dev/?url=IBUv9R
+1080p: https://mdisk.thopdbapp.workers.dev/?url=wbOunH
+dw480p: https://reel.thopdb.com/dw?id=1_cwKNEKboDV2dvfIwgD4mAhW_VmqjHgg
+dw720p: https://reel.thopdb.com/dw?id=11bNrof4hHywl4kwEKkQSuqn76mDhJfhV
+dw1080p: https://reel.thopdb.com/dw?id=1kGi2lzqyBexeeq0A15xztFt0ZOQN8B6h
 dir: P. S. Mithran
 featured: true
 ---
