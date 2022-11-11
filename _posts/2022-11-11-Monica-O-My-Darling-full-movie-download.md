@@ -5,7 +5,7 @@ categories: [ MultiAudio,Telugu,Hindi ]
 tags: [Radhika Apte, Devendra Dodke, Hemant Gaur]
 qua: HD
 lag: Telugu + Tamil + Hindi + Malayalam
-image: assets/images/monica.jpg
+image: assets/images/monica1.jpg
 description: "Monica, O My Darling (2022) Full Movie Download and watch online 720p low file size 500 mb."
 trailer: https://www.youtube.com/watch?v=PY9nJhb4p-0
 480p: https://mdisk.thopdbapp.workers.dev/?url=i4xQia
