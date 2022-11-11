@@ -17,7 +17,6 @@ dw720p2: https://reel.thopdb.com/dir?id=reel.thopdb.com%20-%20Bomma%20Blockbuste
 dw1080p: https://reel.thopdb.com/dw?id=1VgDy_hQK2BAQNjrqPQ_M8pJeIxFWj_VY
 dw1080p2: https://reel.thopdb.com/dir?id=reel.thopdb.com%20-%20Bomma%20Blockbuster%20(2022)%20Telugu%20Proper%20HQ%20PreDVD%20-%201080p%20-%20x264%20-%20HQ%20Clean%20Aud%20-%202.2GB.mkv
 dir: Raj Virat
-featured: true
 ---
 
 ### Story Line:
