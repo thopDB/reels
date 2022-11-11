@@ -2,7 +2,7 @@
 layout: multi-post
 title:  "Black Panther: Wakanda Forever (2022)"
 categories: [ English ]
-tags: [Letitia Wright,Lupita Nyong,Danai Gurira,Black Panther Wakanda Forever full movie download]
+tags: [Letitia Wright,Lupita Nyong,Danai Gurira,movierulz]
 qua: CamRip
 image: assets/images/block-pantar.jpg
 description: "Black Panther: Wakanda Forever (2022) Full Movie Download and watch online 720p low file size 500 mb."
