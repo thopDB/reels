@@ -1,6 +1,6 @@
 ---
 layout: multi-post
-title:  "Black Panther: Wakanda Forever (2022)"
+title:  "Black Panther: Wakanda Forever (2022) Hindi"
 categories: [ Hindi ]
 tags: [Letitia Wright,Lupita Nyong,Danai Gurira,movierulz]
 qua: CamRip
