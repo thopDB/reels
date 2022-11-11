@@ -7,7 +7,7 @@ qua: HD
 lag: Telugu + Tamil + Hindi + Malayalam
 image: assets/images/Rorschach.jpg
 description: "Rorschach (2022) Full Movie Download and watch online 720p low file size 500 mb."
-trailer: https://www.youtube.com/watch?v=c8pvrUovnvw
+trailer: https://www.youtube.com/watch?v=1FmqSUwAirA
 480p: https://mdisk.thopdbapp.workers.dev/?url=V7dtrH
 720p: https://mdisk.thopdbapp.workers.dev/?url=lJjrSy
 1080p: https://mdisk.thopdbapp.workers.dev/?url=AiFTp4
