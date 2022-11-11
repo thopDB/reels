@@ -17,7 +17,6 @@ dw720p2: https://reel.thopdbapp.workers.dev/0:/reel.thopdb.com%20-%20Anukoni%20P
 dw1080p: https://reel.thopdb.com/dw?id=1mYwDMeV4mzP0YUHlMGkIjCs2DxH2a332
 dw1080p2: https://reel.thopdbapp.workers.dev/0:/reel.thopdb.com%20-%20Anukoni%20Prayanam%20(2022)%20Telugu%20Proper%20HQ%20PreDVD%20-%201080p%20-%20x264%20-%20HQ%20Clean%20Aud%20-%201.9GB.mkv
 dir: Venkatesh Pediredla
-featured: true
 ---
 
 ### Story Line:

@@ -17,7 +17,6 @@ dw720p2: https://reel.thopdb.com/dir?id=reel.thopdb.com%20-%20Thaggedhe%20Le%20(
 dw1080p: https://reel.thopdb.com/dw?id=1A547HyfEghvFPCKUJaYNeR6I1t6YPPR6
 dw1080p2: https://reel.thopdb.com/dir?id=reel.thopdb.com%20-%20Thaggedhe%20Le%20(2022)%201080p%20Telugu%20DVDScr%20x264%20AAC%202.4GB.mkv
 dir: Srinivas Raju
-featured: true
 ---
 
 ### Story Line:

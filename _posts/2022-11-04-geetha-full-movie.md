@@ -17,7 +17,6 @@ dw720p2: https://tinyurl.com/47753xnh
 dw1080p: https://reel.thopdb.com/dw?id=1Zr4Sa8Ea2DpodFbARVH8rQGxpYQHzQAV
 dw1080p2: https://tinyurl.com/ytch6jva
 dir: Viswa R Rao
-featured: true
 ---
 
 ### Story Line:
