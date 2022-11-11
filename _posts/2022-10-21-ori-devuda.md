@@ -3,19 +3,16 @@ layout: multi-post
 title:  "Ori Devuda (2022)"
 categories: [ Telugu]
 tags: [Venkatesh Daggubati, Murli Sharma, Mithila Palkar]
-qua: Dvdscr
+qua: HD
 image: assets/images/ori-devuda.jpg
 description: "Ori Devuda (2022) Telugu Full Movie Download and watch online 720p low file size 500 mb."
 trailer: https://www.youtube.com/watch?v=0odLpTURtIU
-480p: https://mdisk.thopdbapp.workers.dev/?url=5MDB4d
-720p: https://mdisk.thopdbapp.workers.dev/?url=JMhqhA
-1080p: https://mdisk.thopdbapp.workers.dev/?url=0443iH
-dw480p: https://reel.thopdb.com/dw?id=1s5yktpPiirXSky-ktCuEb_jKO9BCSdf_
-dw480p2: https://reel.thopdbapp.workers.dev/0:/reel.thopdb.com%20-%20Ori%20Devuda%20(2022)%20Telugu%20Proper%20HQ%20PreDVD%20-%20x264%20-%20400MB%20-%20HQ%20Clean%20Aud.mkv
-dw720p: https://reel.thopdb.com/dw?id=1Dsegbsf08-44600fxcVWo8vEJ1xGfawW
-dw720p2: https://reel.thopdbapp.workers.dev/0:/reel.thopdb.com%20-%20Ori%20Devuda%20(2022)%20Telugu%20Proper%20HQ%20PreDVD%20-%20720p%20-%20x264%20-%20HQ%20Clean%20Aud%20-%201.4GB.mkv
-dw1080p: https://reel.thopdb.com/dw?id=1N2YHDzPcQQQBG7SGX8L3ZFkUEp3Qzxcz
-dw1080p2: https://reel.thopdbapp.workers.dev/0:/reel.thopdb.com%20-%20Ori%20Devuda%20(2022)%20Telugu%20Proper%20HQ%20PreDVD%20-%201080p%20-%20x264%20-%20HQ%20Clean%20Aud%20-%202.6GB.mkv
+480p: https://mdisk.thopdbapp.workers.dev/?url=HNlWhY
+720p: https://mdisk.thopdbapp.workers.dev/?url=oI07dY
+1080p: https://mdisk.thopdbapp.workers.dev/?url=U7BJqc
+dw480p: https://reel.thopdb.com/dw?id=1Hr-m-ti50Np7uF6yjhUco5RxMTEQikBy
+dw720p: https://reel.thopdb.com/dw?id=1m7L0LqubMQNLNtsocRO9ibMQy9zvVxe9
+dw1080p: https://reel.thopdb.com/dw?id=1QuhKjESVf3i5BYyyIMAphgxci2OcmTtC
 dir: Ashwath Marimuthu
 featured: true
 ---
