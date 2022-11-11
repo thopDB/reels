@@ -17,7 +17,6 @@ dw720p2: https://tinyurl.com/4uhpzexj
 dw1080p: https://reel.thopdb.com/dw?id=185wCwXv71T6l-uU4nTBBbOR7SILSk3rZ
 dw1080p2: https://tinyurl.com/2p8ze6ky
 dir: Prakash Raj
-featured: true
 ---
 
 ### Story Line:
