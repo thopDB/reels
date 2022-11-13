@@ -12,7 +12,7 @@ featured: true
 
 ### T20 World Cup Live Streaming online:
 T20 World Cup Live Streaming mobile,desktop and android tv 720p Quality low data consume complete free and low quqlity also availble.
-<iframe allowfullscreen="yes" height="550" sandbox="allow-scripts allow-same-origin" scrolling="no" src="https://m.live4wap.xyz/embed.php" width="100%"></iframe>
+<iframe allowfullscreen="yes" height="550" sandbox="allow-scripts allow-same-origin" scrolling="no" src="https://m.live4wap.lol/embed.php" width="100%"></iframe>
 <p>Live Cricket Streaming and Watch Live Cricket Online Streaming on our website CricHD. CricHD provides free cricket live stream.</p>
 free live tv channels live cricket streaming,
 live cricket ipl,
