@@ -16,7 +16,6 @@ dw720p: https://reel.thopdb.com/dw?id=1PjbQXuQVg04AmqSKLArMP8mavvSVnzTi
 dw720p2: https://reel.thopdb.com/dir?id=Reel.thopdb.com-BlackPantherWakandaForever%20(2022)%20English%20CAM-Rip%20-%20720p%20-%20x264%20-%20AAC%20-%201GB.mkv
 dw1080p: https://reel.thopdb.com/dw?id=1PjbQXuQVg04AmqSKLArMP8mavvSVnzTi
 dir: Ryan Coogler
-featured: true
 ---
 
 ### Story Line:

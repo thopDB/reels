@@ -17,7 +17,6 @@ dw720p2: https://reel.thopdb.com/dir?id=reel.thopdb.com-Mili%20(2022)-Hindi%20Fu
 dw1080p: https://reel.thopdb.com/dw?id=1b7rsOWjgaRs_mL4ldffxlT2h5iGKqLHN
 dw1080p2: https://reel.thopdb.com/dir?id=reel.thopdb.com-Mili%20(2022)%20Hindi%20Full%20Movie%20PreDVD%201080p.mkv
 dir: Mathukutty Xavier
-featured: true
 ---
 
 ### Story Line:

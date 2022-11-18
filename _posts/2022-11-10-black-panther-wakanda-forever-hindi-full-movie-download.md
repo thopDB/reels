@@ -18,7 +18,6 @@ dw720p2: https://reel.thopdb.com/dir?id=Reel.thopdb.com-Black%20Panther:%20Wakan
 dw1080p: https://reel.thopdb.com/dw?id=1OP5rXyJhhtyva9sR6ns0maZI-OmVXxq-
 dw1080p2: https://reel.thopdb.com/dir?id=Reel.thopdb.com-Black%20Panther:%20Wakanda%20Forever%20V2%20(2022)%20Hindi%20Dubbed%20Full%20Movie%20PreDVD%201080p.mkv
 dir: Ryan Coogler
-featured: true
 ---
 
 ### Story Line:

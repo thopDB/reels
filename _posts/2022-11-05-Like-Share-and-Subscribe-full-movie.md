@@ -17,7 +17,6 @@ dw720p2: https://reel.thopdb.com/dir?id=reel.thopdb.com%20-%20Like,%20Share%20&%
 dw1080p: https://reel.thopdb.com/dw?id=1c3C5WX8h7FYYqkHK8-KwzgLPLrNSDjOs
 dw1080p2: https://reel.thopdb.com/dir?id=reel.thopdb.com%20-%20Like,%20Share%20&%20Subscribe%20(2022)%201080p%20Telugu%20DVDScr%20x264%20AAC%202.4GB.mkv
 dir: Merlapaka Gandhi
-featured: true
 ---
 
 ### Story Line:
