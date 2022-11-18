@@ -8,9 +8,9 @@ lag: Telugu
 image: assets/images/sardar-1.jpg
 description: "Sardar (2022) Full Movie Download and watch online 720p low file size 500 mb."
 trailer: https://www.youtube.com/watch?v=8OQzz_i3KFE
-480p: https://mdisk.thopdbapp.workers.dev/?url=sMvgkP
-720p: https://mdisk.thopdbapp.workers.dev/?url=IBUv9R
-1080p: https://mdisk.thopdbapp.workers.dev/?url=wbOunH
+480p: https://mdisk.thopdbapp.workers.dev/?url=cHTImu
+720p: https://mdisk.thopdbapp.workers.dev/?url=LVnTZP
+1080p: https://mdisk.thopdbapp.workers.dev/?url=64vBTf
 dw480p: https://reel.thopdb.com/dw?id=1NoGpS4xxfvJSIYPW35YEx4I9kBjDJaP5
 dw480p2: https://reel.thopdb.com/dir?id=reel.thopdb.com%20-%20Sardar_(2022)_Telugu_HQ_HDRip_400MB.mkv
 dw720p: https://reel.thopdb.com/dw?id=1bntIn5d_sYmLVN7UWX-YQiqQV7KWJ9Mj
