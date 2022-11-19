@@ -8,7 +8,7 @@ tags: [Chiranjeevi, Salman Khan, Nayanthara, Satya Dev]
 image: assets/images/godfather.jpg
 description: "Godfather (2022) Full Movie Download and watch online 720p low file size 500 mb."
 trailer: https://www.youtube.com/watch?v=Fs57ol2pbuY
-480p: https://mdisk.thopdbapp.workers.dev/?url=uswDKV
+480p: https://mdisk.thopdbapp.workers.dev/?url=gfoWKS
 720p: https://mdisk.thopdbapp.workers.dev/?url=uswDKV
 1080p: https://mdisk.thopdbapp.workers.dev/?url=uswDKV
 dw480p: https://reel.thopdb.com/dw?id=182s5YFHtb0QS6_670w1f5ly1p8trC8Nw
