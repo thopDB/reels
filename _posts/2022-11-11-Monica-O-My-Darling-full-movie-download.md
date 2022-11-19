@@ -18,7 +18,6 @@ dw720p2: https://reel.thopdb.com/dir?id=reel.thopdb.com%20-%20Monica%20O%20My%20
 dw1080p: https://reel.thopdb.com/dw?id=1knle3_sT2vrHdvHofBOgQNo0VRhOh7oV
 dw1080p2: https://reel.thopdb.com/dir?id=reel.thopdb.com%20-%20Monica%20O%20My%20Darling%20(2022)%201080p%20NF%20WEB-DL%20VP9%20(DD+%205.1%20-%20192Kbps)%20[Tel%20+%20Tam%20+%20Hin%20+%20Mal%20+%20Eng]%20MSub.mkv
 dir: Vasan Bala
-featured: true
 ---
 
 ### Story Line:
