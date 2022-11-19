@@ -9,7 +9,7 @@ description: "Godfather (2022) Full Movie Download and watch online 720p low fil
 trailer: https://www.youtube.com/watch?v=Fs57ol2pbuY
 480p: https://mdisk.thopdbapp.workers.dev/?url=U4craR
 720p: https://mdisk.thopdbapp.workers.dev/?url=IqLsSn
-1080p: https://mdisk.thopdbapp.workers.dev/?url=IqLsSn
+1080p: https://mdisk.thopdbapp.workers.dev/?url=P4qoky
 dw480p: https://reel.thopdb.com/dw?id=1rko3fAeheFj71F5ddYpZgtTTGBLbYiTF
 dw480p2: https://reel.thopdb.com/dir?id=reel.thopdb.com%20-%20Godfather_(2022)_Telugu_HQ_HDRip_-_400MB_-_x264_-_AAC_-_ESub.mkv
 dw720p: https://reel.thopdb.com/dw?id=1ADdVEdEZxNHeWV1g36FFbLEpR5sOJrWn
