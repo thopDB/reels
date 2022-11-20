@@ -7,9 +7,9 @@ qua: Dvdscr
 image: assets/images/d2.jpg
 description: "Drishyam 2 (2022) Full Movie Download and watch online 720p low file size 500 mb."
 trailer: https://www.youtube.com/watch?v=cxA2y9Tgl7o
-480p: https://mdisk.thopdbapp.workers.dev/?url=exzd4D
-720p: https://mdisk.thopdbapp.workers.dev/?url=aum2el
-1080p: https://mdisk.thopdbapp.workers.dev/?url=3T3BqE
+480p: https://gdrive.thopdb.com/v/Akm9m3sVDfNV4b0
+720p: https://gdrive.thopdb.com/v/Akm9m3sVDfNV4b0
+1080p: https://gdrive.thopdb.com/v/Akm9m3sVDfNV4b0
 dw480p: https://reel.thopdb.com/dw?id=16smmdVGMG6t9qloU28Zl0FmS0tDLLlbG
 dw480p2: https://reel.thopdb.com/dir?id=reel.thopdb.com%20-%20Drishyam%202%20(2022)%20Hindi%20Full%20Movie%20S-Print%20480p.mkv
 dw720p: https://reel.thopdb.com/dw?id=11ylR4KbSvFdL5DsQrQWNPLK2MvmWhr__
