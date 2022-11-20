@@ -14,7 +14,6 @@ dw480p2: https://tinyurl.com/wxd86bdp
 dw720p: https://reel.thopdb.com/dw?id=11OdG3IiXzHT4CFxbaFe64Lgbw50BB1M5
 dw720p2: https://tinyurl.com/5n8yrysp
 dir: Brijitesh De, Madhu Neelakandan Nair, Abhishek Sharma
-featured: true
 ---
 
 ### Story Line:

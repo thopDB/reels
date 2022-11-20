@@ -14,7 +14,6 @@ dw480p: https://reel.thopdb.com/dw?id=1YJdyqgmD045g8UHQN8Bbr3rCy44yCI94
 dw720p: https://reel.thopdb.com/dw?id=1hayP-VQ53LJ64eeSoYCS8jdm5Tq7Ke71
 dw1080p: https://reel.thopdb.com/dw?id=1DbuECx9TZ8JZ86z3zfr0XMAHwf5sKhPq
 dir: Abhishek Sharma
-featured: true
 ---
 
 ### Ram Setu (2022) Full movie download Story Line:

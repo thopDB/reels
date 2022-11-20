@@ -17,7 +17,6 @@ dw720p2: https://reel.thopdb.com/dir?id=Reel.thopdb.com-Double%20XL%20(2022)%20H
 dw1080p: https://reel.thopdb.com/dw?id=1cqDrqeDJwFuNpfsMGrRSv39KnKSL6-D9
 dw1080p2: https://reel.thopdb.com/dir?id=Reel.thopdb.com-Double%20XL%20(2022)%20Hindi%201080p%20HQ%20PreDVD%20Rip%20x264%20AAC.mkv
 dir: Satram Ramani
-featured: true
 ---
 
 ### Story Line:
