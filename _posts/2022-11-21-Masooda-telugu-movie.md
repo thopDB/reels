@@ -4,7 +4,7 @@ title:  "Masooda (2022)"
 categories: [ Telugu ]
 tags: [Sangitha, Thiruveer, Kavya Kalyanram, Subhaleka Sudhakar]
 qua: DvdScr
-image: assets/images/Masooda.jpg
+image: assets/images/masooda1.jpg
 description: "Masooda (2022) Full Movie Download and watch online 720p low file size 500 mb."
 trailer: https://www.youtube.com/watch?v=5iwdHPO1EJk
 480p: https://mdisk.thopdbapp.workers.dev/?url=fnNpHp
