@@ -20,12 +20,3 @@ featured: true
 
 ### Kantara (2022) Full Movie Download Story Line:
 Depicting Supreme God Vishnu’s third incarnation on earth called Varaha avtar. The forest tribal community devote to Varaha and considers bhootakola performer to rudra demigod who is gatekeeper of the community and protects every devotee of Lord Varaha from evil spirits. A promise of ancestors is under threat to be breached by people over lust of materialistic gains where the ancient king had made deal with demigods as bargain for his peace. With such powerful storyline, excellent performance by every actor keeping raw background showing beautiful traditional practices of coastal Karnataka in an ultimate showdown of good vs evil.
-
-
-
-
-
-
-
-
-
