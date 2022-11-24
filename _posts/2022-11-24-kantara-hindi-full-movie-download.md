@@ -1,6 +1,6 @@
 ---
 layout: multi-post
-title:  "Kantara (2022)"
+title:  "Kantara (2022) Hindi"
 categories: [ Hindi ]
 qua: HD
 lag: Hindi
@@ -15,6 +15,7 @@ dw480p: https://drive.shakib.cyou/sam.php?id=1-Grzs8rTfYvSv8_wmxu2LqS9Li5sEgZw
 dw720p: https://drive.shakib.cyou/sam.php?id=1hOJvPnbHOuiZSFpHvRSSSwJkCjKkqvFh
 dw1080p: https://drive.shakib.cyou/sam.php?id=1xMxiPY-XKOdRPP7GmyPuKWzB7M2G4kUm
 dir: Rishab Shetty
+featured: true
 ---
 
 ### Kantara (2022) Full Movie Download Story Line:
