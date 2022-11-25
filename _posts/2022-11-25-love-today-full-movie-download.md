@@ -1,6 +1,6 @@
 ---
 layout: multi-post
-title:  "Love Today (2022)"
+title:  "Love Today (2022) Telugu"
 categories: [ Telugu ]
 tags: [Yogi Babu, Finally Bharath, Ivana]
 qua: HD
