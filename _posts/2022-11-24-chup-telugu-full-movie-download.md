@@ -18,5 +18,5 @@ dir: R. Balki
 featured: true
 ---
 
-### Chup (2022) Full Movie Download Story Line:
+### Chup (2022) Full Movie Download 720p Story Line:
 A lonesome director and his new muse, and a psychopath who is on a killing spree targeting film critics in Mumbai. Are the two related? Inspector Arvind Mathur and Dr. Zenobia are about to find out.
