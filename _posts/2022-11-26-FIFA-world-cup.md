@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "FIFA World Cup Qatar 2022"
+qua: live
 categories: [ sports ]
 tags: [FIFA World Cup Qatar 2022]
 image: assets/images/f1.jpg
