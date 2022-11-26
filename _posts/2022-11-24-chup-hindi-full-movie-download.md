@@ -7,12 +7,15 @@ tags: [Rishab Shetty, Sapthami Gowda, Kishore Kumar G.]
 image: assets/images/chup.jpg
 description: "Chup (2022) Full Movie Download and watch online 720p low file size 500 mb."
 trailer: https://www.youtube.com/watch?v=V51sMMFMWqg
-480p: https://www.thopdbapp.workers.dev/?url=1nWiRP4w1v76Un36HH6cY9I5R-zk9B0Sn
-720p: https://www.thopdbapp.workers.dev/?url=1e4CylFciBNAyhCB6HsQT6IO_8keWi-1k
-1080p: https://www.thopdbapp.workers.dev/?url=1utVEJsLcaczbllcFPLj-p3PAubOKhDtI
-dw480p: https://reel.thopdb.com/dw?id=1nWiRP4w1v76Un36HH6cY9I5R-zk9B0Sn
-dw720p: https://reel.thopdb.com/dw?id=1e4CylFciBNAyhCB6HsQT6IO_8keWi-1k
-dw1080p: https://reel.thopdb.com/dw?id=1utVEJsLcaczbllcFPLj-p3PAubOKhDtI
+480p: https://www.thopdbapp.workers.dev/?url=18a9v7E7lMSYz5u6BAHHVHQfIszqbAEfj
+720p: https://www.thopdbapp.workers.dev/?url=12Z1m6SBU4c6OAgjvYLEA5P_JBpcg_zhX
+1080p: https://www.thopdbapp.workers.dev/?url=1pMdzlU3HvBsSFNriOKigTxntaOGTjman
+dw480p2: https://reel.thopdb.com/dw?id=18a9v7E7lMSYz5u6BAHHVHQfIszqbAEfj
+dw480p: https://reel.thopdb.com/te?id=a08bfe33-caf5-4b8e-a6ae-98657099f541
+dw720p2: https://reel.thopdb.com/dw?id=12Z1m6SBU4c6OAgjvYLEA5P_JBpcg_zhX
+dw720p: https://reel.thopdb.com/te?id=58f84eba-ec51-48f9-95b8-dbf18949a4b7
+dw1080p2: https://reel.thopdb.com/dw?id=1pMdzlU3HvBsSFNriOKigTxntaOGTjman
+dw1080p: https://reel.thopdb.com/te?id=19444383-7798-4b9c-8632-bd081e4e42ff
 dir: R. Balki
 featured: true
 ---
