@@ -15,7 +15,6 @@ dw480p: https://reel.thopdb.com/dw?id=12dE0JeQHlpqINY72skIay6sNQe0KMj4o
 dw720p: https://reel.thopdb.com/dw?id=1s76-EpCYiZTYFP3Fo7LEM30LSm4_g33e
 dw1080p: https://reel.thopdb.com/dw?id=1ft392xpn_t1VXPERFshdMm7d9zxJAE0N
 dir:  Pradeep Ranganathan
-featured: true
 ---
 
 ### Story Line:
