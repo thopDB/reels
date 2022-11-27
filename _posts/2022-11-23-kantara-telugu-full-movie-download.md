@@ -11,9 +11,9 @@ trailer: https://www.youtube.com/watch?v=eWb89ymiRow
 480p: https://mdisk.thopdbapp.workers.dev/?url=by2bQ1
 720p: https://mdisk.thopdbapp.workers.dev/?url=LcVXhp
 1080p: https://mdisk.thopdbapp.workers.dev/?url=dWWGpB
-dw480p: https://reel.thopdb.com/dw?id=1h1dC-bAG-ER8nk3LivzpyTmr6FmcqpGj
-dw720p: https://reel.thopdb.com/dw?id=11j_uneUPoa8xq_n0IshsxUwidJjHfKyH
-dw1080p: https://reel.thopdb.com/dw?id=1c7BzbyQ0SzZXhKJP1QaCA3N-GC000CQr
+dw480p: https://reel.thopdb.com/drive?id=WSWTJaaUFv
+dw720p: https://reel.thopdb.com/drive?id=wSTtzyZRnO
+dw1080p: https://reel.thopdb.com/drive?id=KfSaUhH5Pj
 dir: Rishab Shetty
 featured: true
 ---
