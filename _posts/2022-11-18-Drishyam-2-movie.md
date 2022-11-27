@@ -11,7 +11,9 @@ trailer: https://www.youtube.com/watch?v=cxA2y9Tgl7o
 720p: https://mdisk.thopdbapp.workers.dev/?url=8kMDP6
 1080p: https://mdisk.thopdbapp.workers.dev/?url=aMxWVY
 dw480p: https://reel.thopdb.com/drive?id=YPmA0Y0KXO
+dw480p2: https://dl3.down4mad.online/download/12305/Drishyam-2-(2022)-Hindi-pDVDRip-Full-Movie-720p-480p--480p-[MoviesMkv].mp4?st=ORNukQmZyX4mi1vqy_ZRDA&e=1668966121
 dw720p: https://reel.thopdb.com/drive?id=XXxH7MoKT1
+dw720p2: https://dl3.down4mad.online/download/12305/Drishyam-2-(2022)-Hindi-pDVDRip-Full-Movie-720p-480p--720p-[MoviesMkv].mp4?st=ORNukQmZyX4mi1vqy_ZRDA&e=1668966121
 dw1080p: https://reel.thopdb.com/drive?id=IsNU6bMnIk
 dir: Abhishek Pathak
 featured: true
