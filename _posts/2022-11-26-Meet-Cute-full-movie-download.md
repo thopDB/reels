@@ -13,11 +13,11 @@ ep-name2: "Meet Cute S01E02 "
 ep-name3: "Meet Cute S01E03 "
 ep-name4: "Meet Cute S01E04 "
 ep-name5: "Meet Cute S01E05 "
-ep-dw1: https://reel.thopdb.com/dw?id=1NGMYrFjYfOMEim95aOFKOO2VdQ-hVqTN
-ep-dw2: https://reel.thopdb.com/dw?id=1vEQlE-6BD7xXD_TGqmxzp0C2ohbydhLc
-ep-dw3: https://reel.thopdb.com/dw?id=1Q1KA_OwVe29Aq0c6OBLTb59dsOmC5pSu
-ep-dw4: https://reel.thopdb.com/dw?id=1BUMiz0WUKJ4IFbRGtg-OAjGn2zS0e5EA
-ep-dw5: https://reel.thopdb.com/dw?id=1x994SvuZHAFj23nvW2diHhicnNS3PQf5
+ep-dw1: https://reel.thopdb.com/drive?id=Xm2OU7jHE7
+ep-dw2: https://reel.thopdb.com/drive?id=gh83OsuWnQ
+ep-dw3: https://reel.thopdb.com/drive?id=p2jaHESpGc
+ep-dw4: https://reel.thopdb.com/drive?id=mrz9nHenHl
+ep-dw5: https://reel.thopdb.com/drive?id=BdOs1a8PZv
 ep1: https://mdisk.thopdbapp.workers.dev/?url=qTHQVb
 ep2: https://mdisk.thopdbapp.workers.dev/?url=l0rqJL
 ep3: https://mdisk.thopdbapp.workers.dev/?url=ddQAgq
