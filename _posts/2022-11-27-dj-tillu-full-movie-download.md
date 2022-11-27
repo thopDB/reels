@@ -6,7 +6,7 @@ tags: [Siddhu, Neha Shetty, Prince Cecil, Brahmaji, Pragathi, Narra Srinivas]
 qua: HD
 lag: Hindi Dubbed
 image: assets/images/djtillu.jpg
-description: "Love Today (2022) Full Movie Download and watch online 720p low file size 500 mb."
+description: "DJ Tillu (2022) Full Movie Download and watch online 720p low file size 500 mb."
 trailer: https://www.youtube.com/watch?v=CRFnqrv9pEg
 480p: https://mdisk.thopdbapp.workers.dev/?url=8zn9MC
 720p: https://mdisk.thopdbapp.workers.dev/?url=TcJcBg
