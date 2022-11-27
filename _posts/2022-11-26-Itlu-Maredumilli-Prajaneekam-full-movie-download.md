@@ -10,9 +10,9 @@ trailer: https://www.youtube.com/watch?v=zUb-RWxYGN4
 480p: https://mdisk.thopdbapp.workers.dev/?url=jtVI95
 720p: https://mdisk.thopdbapp.workers.dev/?url=lyk43v
 1080p: https://mdisk.thopdbapp.workers.dev/?url=2JxXDd
-dw480p: https://reel.thopdb.com/dw?id=1drJ6i_y8o3M9uWh6Nrz6DXhhcx_rxP6j
-dw720p: https://reel.thopdb.com/dw?id=1cYpyHF_CnLOvaPvdLmuwBP58N6z9hyij
-dw1080p: https://reel.thopdb.com/dw?id=1pFtCRDIn64HFlHOEUhmd8zV_rXKk9R8T
+dw480p: https://reel.thopdb.com/drive?id=fdt0GzAuQk
+dw720p: https://reel.thopdb.com/drive?id=az4OTrKitn
+dw1080p: https://reel.thopdb.com/drive?id=thM8OUVwm6
 dir:  AR Mohan
 featured: true
 ---
