@@ -5,10 +5,36 @@ permalink: /play
 comments: true
 ---
 
-<div id="myplayer"></div>
-<script type="text/JavaScript">jwplayer.key="XSuP4qMl+9tK17QNb+4+th2Pm9AWgMO/cYH8CI0HGGr7bdjo";
-      jwplayer("myplayer").setup({"image" : "","title" : "reel.thopdb.com","height": 360,"width": 640,"autostart": false,"playbackRateControls": true,"nextupoffset": "-10","hlsjsdefault" : true,"stretching" : "uniform","renderCaptionsNatively" : false,"sources" : {"file":"link","label":"original","type":"mp4"},"captions" : { "fontSize" : 15,"backgroundOpacity" : 35,"fontFamily": "Arial"},"tracks" : [{ "file" : "", "label" : "default","default": true }],advertising: { client: "vast",schedule: { "myAds": { "offset":"pre", "tag": "" }}},});
-    </script>
+<div id="player"></div>
+<script type="text/javascript">
+     var playerInstance = jwplayer('player');
+     playerInstance.setup({
+          file: 'link',
+          image: '',
+          autostart: false,
+          primary: 'html5',
+          setFullscreen: true,
+          width: '100%',
+          aspectratio: '16:9',
+          preload: 'none',
+          mute: 'false',
+          androidhls: true,
+          skin: {
+               name: "netflix"
+          }
+     });
+</script>
+
+<script>
+        //<![CDATA[
+        // Say Hi to Adblock
+        function downloadJSAtOnload(){var e=document.createElement("script");e.src="https://raw.githubusercontent.com/thopDB/thopdbapp/master/adblock.js",document.body.appendChild(e)}window.addEventListener?window.addEventListener("load",downloadJSAtOnload,!1):window.attachEvent?window.attachEvent("onload",downloadJSAtOnload):window.onload=downloadJSAtOnload;
+        //]]>
+        </script>
+        <script>//<![CDATA[ 
+!function() {function f() {var a=document.getElementById("player");a.innerHTML='<p class="note noteAlert blocked"><strong>Ad-Block Detected :((</strong><br><br>Sorry, We detected that you have activated Ad-Blocker.&nbsp;<br> Please Consider supporting us by disabling your Ad-Blocker,It helps us in maintaining this website.&nbsp;<br>To View the content disable adblocker and refresh the page.<br><br>Thank You !!!</p>';} var b=document.createElement("script");b.type="text/javascript";b.async=!0;b.src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js";b.onerror=function() {f();window.adblock=!0};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(b,e)}(); 
+//]]></script>
+<script src="https://sblanh.com/player8/jwplayer.8.9.5.js"></script>
 <script type='text/javascript'>
   //<![CDATA[
      function getUrlVars() {
