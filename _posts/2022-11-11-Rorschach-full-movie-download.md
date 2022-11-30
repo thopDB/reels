@@ -18,7 +18,6 @@ dw720p2: https://reel.thopdb.com/dir?id=reel.thopdb.com%20-%20Rorschach%20(2022)
 dw1080p: https://reel.thopdb.com/dw?id=1WEzVYFu72_uZQGYWsiINDjAh1wyYiDn7
 dw1080p2: https://reel.thopdb.com/dir?id=reel.thopdb.com%20-%20Rorschach%20(2022)%201080p%20DSNP%20WEBRip%20x265%2010bit%20(DD+%205.1%20-%20192Kbps)%20[Tel%20+%20Tam%20+%20Hin%20+%20Mal]%20ESubs.mkv
 dir: Nissam Basheer
-featured: true
 ---
 
 ### Story Line:
