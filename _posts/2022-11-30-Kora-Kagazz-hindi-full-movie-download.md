@@ -4,7 +4,7 @@ title:  "Kora Kagazz (2022)"
 categories: [ Hindi ]
 qua: DVDScr
 tags: [Rajat Kapoor, Swastika Mukherjee, and Aishani Yadav]
-image: assets/images/Kora-Kagazz.jpg
+image: assets/images/Kora-Kagazz.jpeg
 description: "Kora Kagazz (2022) Full Movie Download and watch online 720p low file size 500 mb."
 trailer: https://youtu.be/M-K1yjY-gYM
 480p: https://mdisk.thopdbapp.workers.dev/?url=iyRCCN
