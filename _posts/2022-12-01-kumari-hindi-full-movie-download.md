@@ -11,12 +11,12 @@ trailer: https://www.youtube.com/watch?v=dGzKcctHnQU
 480p: https://mdisk.thopdbapp.workers.dev/?url=https://mdisk.me/convertor/6dSNoe
 720p: https://mdisk.thopdbapp.workers.dev/?url=https://mdisk.me/convertor/J59vRR
 1080p: https://mdisk.thopdbapp.workers.dev/?url=https://mdisk.me/convertor/mAuMRd
-dw480p: https://reel.thopdb.com/drive?id=Vjk33E5xPB
-dw480p: https://www1.thopdb.com/?url=1fBLN3f6tJjk_r-z8TL_T02sOwb-xzX27
-dw720p: https://reel.thopdb.com/drive?id=LtcVsSvcbu
-dw720p: https://www1.thopdb.com/?url=1ef740yzXQK45UpmBF95Jz9qzfTeWHsNE
-dw1080p: https://reel.thopdb.com/drive?id=1l6SrvSv3O
-dw1080p: https://www1.thopdb.com/?url=1Yy9rQ5p423042pwog3B5sfY9vLZUHUOp
+dw480p2: https://1reel.thopdb.com/drive?id=Vjk33E5xPB
+dw480p: https://1reel.thopdb.com/dw?id=1fBLN3f6tJjk_r-z8TL_T02sOwb-xzX27
+dw720p2: https://1reel.thopdb.com/drive?id=LtcVsSvcbu
+dw720p: https://1reel.thopdb.com/dw?id=1ef740yzXQK45UpmBF95Jz9qzfTeWHsNE
+dw1080p2: https://1reel.thopdb.com/drive?id=1l6SrvSv3O
+dw1080p: https://1reel.thopdb.com/dw?id=1Yy9rQ5p423042pwog3B5sfY9vLZUHUOp
 dir: Nirmal Sahadev
 featured: true
 ---
