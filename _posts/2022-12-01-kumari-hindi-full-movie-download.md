@@ -7,7 +7,7 @@ lag: Hindi
 tags: [Aishwarya Lekshmi, Shine Tom Chacko, Swasika Vijay]
 image: assets/images/kumari.jpg
 description: "Kumari (2022) Full Movie Download and watch online 720p low file size 500 mb."
-trailer: https://youtu.be/M-K1yjY-gYM
+trailer: https://www.youtube.com/watch?v=dGzKcctHnQU
 480p: https://mdisk.thopdbapp.workers.dev/?url=https://mdisk.me/convertor/6dSNoe
 720p: https://mdisk.thopdbapp.workers.dev/?url=https://mdisk.me/convertor/J59vRR
 1080p: https://mdisk.thopdbapp.workers.dev/?url=https://mdisk.me/convertor/mAuMRd
