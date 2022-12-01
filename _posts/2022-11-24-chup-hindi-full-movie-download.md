@@ -10,9 +10,9 @@ trailer: https://www.youtube.com/watch?v=V51sMMFMWqg
 480p: https://mdisk.thopdbapp.workers.dev/?url=fM9dNr
 720p: https://mdisk.thopdbapp.workers.dev/?url=4bRyiJ
 1080p: https://mdisk.thopdbapp.workers.dev/?url=FzyOh9
-dw480p: https://reel.thopdb.com/drive?id=2Ut6dXWcqN
-dw720p: https://reel.thopdb.com/drive?id=Gn6pMYzlw7
-dw1080p: https://reel.thopdb.com/drive?id=aRPi9xFhMK
+dw480p: https://1reel.thopdb.com/drive?id=2Ut6dXWcqN
+dw720p: https://1reel.thopdb.com/drive?id=Gn6pMYzlw7
+dw1080p: https://1reel.thopdb.com/drive?id=aRPi9xFhMK
 dir: R. Balki
 featured: true
 ---

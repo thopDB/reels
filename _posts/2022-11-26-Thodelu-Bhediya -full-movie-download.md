@@ -11,9 +11,9 @@ trailer: https://www.youtube.com/watch?v=d_BPlvbw_ok
 480p: https://mdisk.thopdbapp.workers.dev/?url=W9Zjhk
 720p: https://mdisk.thopdbapp.workers.dev/?url=TC7lja
 1080p: https://mdisk.thopdbapp.workers.dev/?url=1Mlcgz
-dw480p: https://reel.thopdb.com/drive?id=nt0MezeT1U
-dw720p: https://reel.thopdb.com/drive?id=NSfU9Mgq0M
-dw1080p: https://reel.thopdb.com/drive?id=T6bQB9mUjI
+dw480p: https://1reel.thopdb.com/drive?id=nt0MezeT1U
+dw720p: https://1reel.thopdb.com/drive?id=NSfU9Mgq0M
+dw1080p: https://1reel.thopdb.com/drive?id=T6bQB9mUjI
 dir: Amar Kaushik
 featured: true
 ---
