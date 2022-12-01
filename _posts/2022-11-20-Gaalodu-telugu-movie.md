@@ -17,7 +17,6 @@ dw720p2: https://reel.thopdb.com/dir?id=reel.thopdb.com%20-%20Gaalodu_(2022)_Tel
 dw1080p: https://reel.thopdb.com/dw?id=1P9orEbQSEtSx8oMOP-EC1hvMsz8V_nke
 dw1080p2: https://reel.thopdb.com/dir?id=reel.thopdb.com%20-%20Gaalodu_(2022)_Telugu_Proper_HQ_PreDVD_-_720p%C2%A0-_x264_-_HQ_Clean_Aud_-_850MB.mkv
 dir: P. S. Mithran
-featured: true
 ---
 
 ### Story Line:
