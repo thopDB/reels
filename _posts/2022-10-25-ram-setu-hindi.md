@@ -7,12 +7,12 @@ tags: [Akshay Kumar, Jacqueline Fernandez, Nushrratt Bharuccha]
 image: assets/images/ram-setu-hindi.jpg
 description: "Ram Setu (2022) Telugu Full Movie Download and watch online 720p low file size 500 mb."
 trailer: https://www.youtube.com/watch?v=VgGgYOzNWno
-480p: https://mdisk.thopdbapp.workers.dev/?url=OxGx7B
-720p: https://mdisk.thopdbapp.workers.dev/?url=wFal9m
-1080p: https://mdisk.thopdbapp.workers.dev/?url=J9WTCC
-dw480p: https://reel.thopdb.com/dw?id=1EyWT339m-fZ8v_n1t9ZwgxXYY6gB_22V
-dw720p: https://reel.thopdb.com/dw?id=1c72p1xu4yzxxtYSq7bJmVThqaQEW19Zn
-dw1080p: https://reel.thopdb.com/dw?id=1xynOUim5Qb-nIIF8jNwnLUDQqqOD2xqZ
+480p: https://mdisk.thopdbapp.workers.dev/?url=0OtfnO
+720p: https://mdisk.thopdbapp.workers.dev/?url=0OtfnO
+1080p: https://mdisk.thopdbapp.workers.dev/?url=0OtfnO
+dw480p: https://1reel.thopdb.com/drive?id=3OREbQfoof
+dw720p: https://1reel.thopdb.com/drive?id=piLkeXFdF7
+dw1080p: https://1reel.thopdb.com/drive?id=8VPqqAqeb7
 dir: Abhishek Sharma
 ---
 
