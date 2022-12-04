@@ -14,7 +14,6 @@ dw480p: https://reel.thopdb.com/drive?id=fdt0GzAuQk
 dw720p: https://reel.thopdb.com/drive?id=az4OTrKitn
 dw1080p: https://reel.thopdb.com/drive?id=thM8OUVwm6
 dir:  AR Mohan
-featured: true
 ---
 
 ### Story Line:

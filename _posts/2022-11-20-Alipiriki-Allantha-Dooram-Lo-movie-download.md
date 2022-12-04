@@ -17,7 +17,6 @@ dw720p2: https://reel.thopdb.com/dir?id=reel.thopdb.com%20-%20Alipiriki_Allantha
 dw1080p: https://1reel.thopdb.com/dw?id=1tMLjHN0D9Om205hE4OtE4U-tZ_RXQluv
 dw1080p2: https://reel.thopdb.com/dir?id=reel.thopdb.com%20-%20Alipiriki_Allantha_Dooram_Lo_(2022)_Telugu_Proper_HQ_PreDVD_-_720p%C2%A0-_x264_-_HQ_Clean_Aud_-_950MB.mkv.mkv
 dir: Anand J
-featured: true
 ---
 
 ### Story Line:
