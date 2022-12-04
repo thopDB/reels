@@ -10,11 +10,11 @@ trailer: https://www.youtube.com/watch?v=Gz1CDX5y8SE
 480p: https://mdisk.thopdbapp.workers.dev/?url=VcqEe7
 720p: https://mdisk.thopdbapp.workers.dev/?url=W03tGU
 1080p: https://mdisk.thopdbapp.workers.dev/?url=IsZ5tq
-dw480p: https://reel.thopdb.com/dw?id=17NHtfNsX-W1aOv0ZkHnEso4CLTDFeoPJ
+dw480p: https://1reel.thopdb.com/dw?id=17NHtfNsX-W1aOv0ZkHnEso4CLTDFeoPJ
 dw480p2: https://1reel.thopdb.com/drive?id=hqSZsqcmZE
-dw720p: https://reel.thopdb.com/dw?id=1k_ZT1CNn6b4AWeK1c00fXxW92XauPqdv
+dw720p: https://1reel.thopdb.com/dw?id=1k_ZT1CNn6b4AWeK1c00fXxW92XauPqdv
 dw720p2: https://1reel.thopdb.com/drive?id=VZWX2wvn7n
-dw1080p: https://reel.thopdb.com/dw?id=1GqA3-YiawdFHjLQYolGdkpyRdeiglFvk
+dw1080p: https://1reel.thopdb.com/dw?id=1GqA3-YiawdFHjLQYolGdkpyRdeiglFvk
 dw1080p2: https://1reel.thopdb.com/drive?id=G4hvljRit9
 dir: Eeshaan Suryaah
 featured: true
