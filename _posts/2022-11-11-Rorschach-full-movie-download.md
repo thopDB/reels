@@ -11,11 +11,11 @@ trailer: https://www.youtube.com/watch?v=1FmqSUwAirA
 480p: https://mdisk.thopdbapp.workers.dev/?url=V7dtrH
 720p: https://mdisk.thopdbapp.workers.dev/?url=lJjrSy
 1080p: https://mdisk.thopdbapp.workers.dev/?url=AiFTp4
-dw480p: https://reel.thopdb.com/dw?id=1VgSFvBfmsl2otcbNYvSb7BxKezA07OMi
+dw480p: https://1reel.thopdb.com/dw?id=1VgSFvBfmsl2otcbNYvSb7BxKezA07OMi
 dw480p2: https://reel.thopdb.com/dir?id=reel.thopdb.com%20-%20Rorschach%20(2022)%20720p%20DSNP%20WEBRip%20x265%2010bit%20(AAC%202.0)%20[Tel%20+%20Tam%20+%20Hin%20+%20Mal]%20ESubs.mkv
-dw720p: https://reel.thopdb.com/dw?id=1q3CFshOA3Q7M8kYohA7VoRSjq_7HKMs5
+dw720p: https://1reel.thopdb.com/dw?id=1q3CFshOA3Q7M8kYohA7VoRSjq_7HKMs5
 dw720p2: https://reel.thopdb.com/dir?id=reel.thopdb.com%20-%20Rorschach%20(2022)%20720p%20DSNP%20WEB-DL%20x265%20(AAC%202.0)%20[Tel%20+%20Tam%20+%20Hin%20+%20Mal]%20ESubs.mkv
-dw1080p: https://reel.thopdb.com/dw?id=1WEzVYFu72_uZQGYWsiINDjAh1wyYiDn7
+dw1080p: https://1reel.thopdb.com/dw?id=1WEzVYFu72_uZQGYWsiINDjAh1wyYiDn7
 dw1080p2: https://reel.thopdb.com/dir?id=reel.thopdb.com%20-%20Rorschach%20(2022)%201080p%20DSNP%20WEBRip%20x265%2010bit%20(DD+%205.1%20-%20192Kbps)%20[Tel%20+%20Tam%20+%20Hin%20+%20Mal]%20ESubs.mkv
 dir: Nissam Basheer
 ---

@@ -10,11 +10,10 @@ trailer: https://www.youtube.com/watch?v=0odLpTURtIU
 480p: https://mdisk.thopdbapp.workers.dev/?url=HNlWhY
 720p: https://mdisk.thopdbapp.workers.dev/?url=oI07dY
 1080p: https://mdisk.thopdbapp.workers.dev/?url=U7BJqc
-dw480p: https://reel.thopdb.com/dw?id=1Hr-m-ti50Np7uF6yjhUco5RxMTEQikBy
-dw720p: https://reel.thopdb.com/dw?id=1m7L0LqubMQNLNtsocRO9ibMQy9zvVxe9
-dw1080p: https://reel.thopdb.com/dw?id=1QuhKjESVf3i5BYyyIMAphgxci2OcmTtC
+dw480p: https://1reel.thopdb.com/dw?id=1Hr-m-ti50Np7uF6yjhUco5RxMTEQikBy
+dw720p: https://1reel.thopdb.com/dw?id=1m7L0LqubMQNLNtsocRO9ibMQy9zvVxe9
+dw1080p: https://1reel.thopdb.com/dw?id=1QuhKjESVf3i5BYyyIMAphgxci2OcmTtC
 dir: Ashwath Marimuthu
-featured: true
 ---
 
 ### Story Line:

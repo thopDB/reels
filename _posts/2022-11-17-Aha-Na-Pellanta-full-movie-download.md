@@ -16,14 +16,14 @@ ep-name5: "Aha Na Pellanta S01E05 "
 ep-name6: "Aha Na Pellanta S01E06 "
 ep-name7: "Aha Na Pellanta S01E07 "
 ep-name8: "Aha Na Pellanta S01E08 "
-ep-dw1: https://reel.thopdb.com/dw?id=1kFD6MsOGbu_U8oT2aujFOrWVXW-gBuVx
-ep-dw2: https://reel.thopdb.com/dw?id=1te0AvI9DhFqo4EZWfMcaJDAWQWJ5kpwD
-ep-dw3: https://reel.thopdb.com/dw?id=1dytgy80gEaihqDeRox1rBON532nHhxNR
-ep-dw4: https://reel.thopdb.com/dw?id=1gVYHqp3c80ua4FZh7Rb8J-o8l7g6yj1F
-ep-dw5: https://reel.thopdb.com/dw?id=1D6HgXnwfrpOIY5UKmDkWWIJt2TfU_InL
-ep-dw6: https://reel.thopdb.com/dw?id=1C3Fad-SgloimJfsnLhReklipJnpNGLCq
-ep-dw7: https://reel.thopdb.com/dw?id=1d3tcm7dbn0z4bLg9zKWXgDtSZLon3hA2
-ep-dw8: https://reel.thopdb.com/dw?id=1LohGZs71zUKyCky2NUJn48FgkKIxXswd
+ep-dw1: https://1reel.thopdb.com/dw?id=1kFD6MsOGbu_U8oT2aujFOrWVXW-gBuVx
+ep-dw2: https://1reel.thopdb.com/dw?id=1te0AvI9DhFqo4EZWfMcaJDAWQWJ5kpwD
+ep-dw3: https://1reel.thopdb.com/dw?id=1dytgy80gEaihqDeRox1rBON532nHhxNR
+ep-dw4: https://1reel.thopdb.com/dw?id=1gVYHqp3c80ua4FZh7Rb8J-o8l7g6yj1F
+ep-dw5: https://1reel.thopdb.com/dw?id=1D6HgXnwfrpOIY5UKmDkWWIJt2TfU_InL
+ep-dw6: https://1reel.thopdb.com/dw?id=1C3Fad-SgloimJfsnLhReklipJnpNGLCq
+ep-dw7: https://1reel.thopdb.com/dw?id=1d3tcm7dbn0z4bLg9zKWXgDtSZLon3hA2
+ep-dw8: https://1reel.thopdb.com/dw?id=1LohGZs71zUKyCky2NUJn48FgkKIxXswd
 ep1: https://mdisk.thopdbapp.workers.dev/?url=DXD35Z
 ep2: https://mdisk.thopdbapp.workers.dev/?url=GD4sQe
 ep3: https://mdisk.thopdbapp.workers.dev/?url=jfI2q7
@@ -33,7 +33,6 @@ ep6: https://mdisk.thopdbapp.workers.dev/?url=C2XJtY
 ep7: https://mdisk.thopdbapp.workers.dev/?url=VJZjiP
 ep8: https://mdisk.thopdbapp.workers.dev/?url=25Wm8b
 dir: Sanjeev Reddy
-featured: true
 ---
 
 ### Story Line:

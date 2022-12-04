@@ -18,7 +18,6 @@ dw720p2: https://reel.thopdb.com/dir?id=Reel.thopdb.com-Yashoda%20(2022)%20Hindi
 dw1080p: https://1reel.thopdb.com/dw?id=1TFQVcT9-lXbcycBHzIDyZuwy6EWDQXNA
 dw1080p2: https://reel.thopdb.com/dir?id=Reel.thopdb.com-Yashoda%20(2022)%20Hindi%20Dubbed%20Full%20Movie%20S-Print%201080p.mkv
 dir: Hari Shankar
-featured: true
 ---
 
 ### Story Line:

@@ -17,7 +17,6 @@ dw720p2: https://reel.thopdb.com/dir?id=reel.thopdb.com%20-%20Dejavu_(2022)_Telu
 dw1080p: https://reel.thopdb.com/dw?id=1ReYTmme_K46yY3mRX3i-_2GLQd8bZMe9
 dw1080p2: https://reel.thopdb.com/dir?id=reel.thopdb.com%20-%20Dejavu%20(2022)%20Telugu%20HQ%20HDRip%20-%201080p%20-%20x264%20-%20(DD+5.1%20-%20640Kbps%20&%20AAC)%20-%202.6GB%20-%20ESub.mkv
 dir:  Arvindh Srinivasan
-featured: true
 ---
 
 ### Story Line:

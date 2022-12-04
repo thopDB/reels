@@ -17,7 +17,6 @@ dw720p2: https://reel.thopdb.com/dir?id=reel.thopdb.com%20-%20Godfather_(2022)_T
 dw1080p: https://1reel.thopdb.com/dw?id=1zMvf9ckjXieLXn6kFBMOjPNzXcR9ifQP
 dw1080p2: https://reel.thopdb.com/dir?id=reel.thopdb.com%20-%20GodFather%20(2022)%201080p%20NF%20WEBRip%20x264%20[Telugu%20(DD+%205.1%20-%20384Kbps%20+%20AAC%202.0)]%20ESubs_GTM-TAE.mkv
 dir: Mohan Raja
-featured: true
 ---
 
 ### Godfather (2022) Full Movie Story Line:

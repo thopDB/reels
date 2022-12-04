@@ -10,11 +10,11 @@ trailer: https://www.youtube.com/watch?v=RlOB3UALvrQ
 480p: https://mdisk.thopdbapp.workers.dev/?url=sbFTQH
 720p: https://mdisk.thopdbapp.workers.dev/?url=zHu8Yr
 1080p: https://mdisk.thopdbapp.workers.dev/?url=zHu8Yr
-dw480p: https://reel.thopdb.com/dw?id=1kdiE_9CocX2c1xaesDqizVK0fXQq3FGH
+dw480p: https://1reel.thopdb.com/dw?id=1kdiE_9CocX2c1xaesDqizVK0fXQq3FGH
 dw480p2: https://reel.thopdb.com/dir?id=Reel.thopdb.com-BlackPantherWakandaForever%20(2022)%20English%20CAM-Rip%20-%20x264%20-%20MP3%20-%20400MB.mkv
-dw720p: https://reel.thopdb.com/dw?id=1PjbQXuQVg04AmqSKLArMP8mavvSVnzTi
+dw720p: https://1reel.thopdb.com/dw?id=1PjbQXuQVg04AmqSKLArMP8mavvSVnzTi
 dw720p2: https://reel.thopdb.com/dir?id=Reel.thopdb.com-BlackPantherWakandaForever%20(2022)%20English%20CAM-Rip%20-%20720p%20-%20x264%20-%20AAC%20-%201GB.mkv
-dw1080p: https://reel.thopdb.com/dw?id=1PjbQXuQVg04AmqSKLArMP8mavvSVnzTi
+dw1080p: https://1reel.thopdb.com/dw?id=1PjbQXuQVg04AmqSKLArMP8mavvSVnzTi
 dir: Ryan Coogler
 ---
 
