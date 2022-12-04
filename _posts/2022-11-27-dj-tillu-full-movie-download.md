@@ -15,7 +15,6 @@ dw480p: https://reel.thopdb.com/drive?id=1d4esD4wBO
 dw720p: https://reel.thopdb.com/drive?id=3FEv8cXrkY
 dw1080p: https://reel.thopdb.com/drive?id=pWmy4vcikX
 dir:  Vimal Krishna
-featured: true
 ---
 
 ### Story Line:

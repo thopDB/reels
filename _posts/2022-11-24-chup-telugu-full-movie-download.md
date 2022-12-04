@@ -15,7 +15,6 @@ dw480p: https://1reel.thopdb.com/drive?id=kL0n6mVZXc
 dw720p: https://1reel.thopdb.com/drive?id=4O6VZVKRL8
 dw1080p: https://1reel.thopdb.com/drive?id=MEglpAOTnI
 dir: R. Balki
-featured: true
 ---
 
 ### Chup (2022) Full Movie Download 720p Story Line:
