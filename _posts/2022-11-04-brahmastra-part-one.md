@@ -11,14 +11,13 @@ trailer: https://www.youtube.com/watch?v=2p1-bTCEFj4
 480p: https://mdisk.thopdbapp.workers.dev/?url=9Uztn0
 720p: https://mdisk.thopdbapp.workers.dev/?url=xEMYiv
 1080p: https://mdisk.thopdbapp.workers.dev/?url=TBdJmr
-dw480p: https://reel.thopdb.com/dw?id=1Y0c8UFqlVKdd0ur9JPHmbPJG34QMx0fm
+dw480p: https://1reel.thopdb.com/dw?id=1Y0c8UFqlVKdd0ur9JPHmbPJG34QMx0fm
 dw480p2: https://tinyurl.com/5n7km6t5
-dw720p: https://reel.thopdb.com/dw?id=1vgFml02_wAa2PAnJuDOuiYz_bMZMpZq1
+dw720p: https://1reel.thopdb.com/dw?id=1vgFml02_wAa2PAnJuDOuiYz_bMZMpZq1
 dw720p2: https://tinyurl.com/35v5ar9y
-dw1080p: https://reel.thopdb.com/dw?id=19RZJF8CBSgfCC-eRFMWG800MVw7nA00d
+dw1080p: https://1reel.thopdb.com/dw?id=19RZJF8CBSgfCC-eRFMWG800MVw7nA00d
 dw1080p2: https://tinyurl.com/5x8t36d6
 dir: Ayan Mukerji
-featured: true
 ---
 
 ### Story Line:

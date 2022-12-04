@@ -17,7 +17,6 @@ dw720p2: https://reel.thopdb.com/dir?id=reel.thopdb.com%20-%20Urvasivo%20Rakshas
 dw1080p: https://reel.thopdb.com/dw?id=1Vrcd1T5sLNIxxNY3aojZ_aKviAxhd97n
 dw1080p2: https://reel.thopdb.com/dir?id=reel.thopdb.com%20-%20Urvasivo%20Rakshasivo%20(2022)%20Telugu%20Proper%20HQ%20PreDVD%20-%201080p%20-%20x264%20-%20HQ%20Clean%20Aud%20-%202.5GB.mkv
 dir: Rakesh Sashi
-featured: true
 ---
 
 ### Story Line:
