@@ -5,7 +5,7 @@ categories: [ MultiAudio ]
 tags: [S.J. Suryah, Sanjana, Laila, Nassar]
 qua: HD
 lag: Telugu + Hindi + Tamil
-image: assets/images/vadhandhi.jpg
+image: assets/images/v1.jpg
 description: "Vadhandhi (2022) Hindi Full Movie Download and watch online 720p low file size 500 mb."
 trailer: https://www.youtube.com/watch?v=6tOpaiT3eZA
 480p: https://mdisk.thopdbapp.workers.dev/?url=Bw3I8a
