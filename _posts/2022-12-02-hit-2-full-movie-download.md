@@ -8,8 +8,8 @@ image: assets/images/hit-2.jpg
 description: "HIT 2: The 2nd Case (2022)  Full Movie Download and watch online 720p low file size 500 mb."
 trailer: https://www.youtube.com/watch?v=5Q7J1BVJijs
 480p: https://mdisk.thopdbapp.workers.dev/?url=dhc2VH
-720p: https://mdisk.thopdbapp.workers.dev/?url=wELXMB
-1080p: https://mdisk.thopdbapp.workers.dev/?url=wELXMB
+720p: https://gdrive.thopdb.com/v/icLHED4WXkD2rNf
+1080p: https://gdrive.thopdb.com/v/icLHED4WXkD2rNf
 dw480p2: https://1reel.thopdb.com/drive?id=BdfbytddDc
 dw480p: https://1reel.thopdb.com/dw?id=12w2d1b7H7dUEQ9W2n8jlxCOo_XgyfSS0
 dw720p2: https://1reel.thopdb.com/drive?id=sPgRtXon6V
