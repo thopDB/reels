@@ -3,7 +3,7 @@ layout: multi-post
 title:  "Aakasham (2022)"
 categories: [ Telugu ]
 tags: [Ashok Selvan, Ritu Varma, Aparna Balamurali]
-qua: DVDScr
+qua: HD
 image: assets/images/Aakasham.jpg
 description: "Aakasham (2022) Telugu Full Movie Download and watch online 720p low file size 500 mb."
 trailer: https://www.youtube.com/watch?v=HMqn0x7Vduc
