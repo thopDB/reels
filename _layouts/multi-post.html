@@ -50,7 +50,6 @@ post_class: post-template
 </div>
 <div class="clear"></div>
 {% include multi-post/qplaylist.html %}
-<!--
 <script>const urls = [
 '{{page.480p}}','{{page.720p}}','{{page.1080p}}',]
 const iframe = document.querySelector('iframe')
@@ -65,7 +64,7 @@ localStorage.setItem('{{ site.baseurl }}{{ post.url }}', index)
 })
 let defaultIndex = localStorage.getItem('{{ site.baseurl }}{{ post.url }}') || 0;
 buttons[defaultIndex].click()
-</script>-->
+</script>
  <!-- Adsense if enabled from _config.yml (change your pub id and slot) -->
             {% if site.adsense == "enabled" %}
                 {% include adsense-under-header.html %}
