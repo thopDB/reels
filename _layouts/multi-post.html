@@ -49,6 +49,9 @@ post_class: post-template
 <div class="clear above-play"></div>
 </div>
 <div class="clear"></div>
+{% if page.watch %}
+ {% include iframe.html %}
+ {% endif %}
 {% include multi-post/qplaylist.html %}
 <script>const urls = [
 '{{page.480p}}','{{page.720p}}','{{page.1080p}}',]
