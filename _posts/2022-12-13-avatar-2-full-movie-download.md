@@ -8,7 +8,7 @@ image: assets/images/avatar-2.jpg
 description: "Macherla Niyojakavargam (2022) Telugu Full Movie Download and watch online 720p low file size 500 mb."
 trailer: https://www.youtube.com/watch?v=d9MyW72ELq0
 download: #
-watch: https://www.youtube.com/embed/d9MyW72ELq0
+watch: https://advise-shine-i-206.site/play/ftt1630029
 dir: James Cameron
 featured: true
 ---
