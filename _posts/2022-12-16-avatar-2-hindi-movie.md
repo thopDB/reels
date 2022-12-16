@@ -1,7 +1,7 @@
 ---
 layout: multi-post
 title:  "Avatar 2 (2022) Hindi"
-categories: [ Telugu ]
+categories: [ Hindi ]
 tags: [Sam Worthington,Zoe Saldaña,Sigourney Weaver,Stephen Lang]
 qua: DvdScr
 lag: Hindi
