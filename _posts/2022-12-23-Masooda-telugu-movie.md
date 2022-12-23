@@ -10,12 +10,12 @@ trailer: https://www.youtube.com/watch?v=5iwdHPO1EJk
 480p: https://mdisk.thopdbapp.workers.dev/?url=5PAT3J
 720p: https://mdisk.thopdbapp.workers.dev/?url=5PAT3J
 1080p: https://mdisk.thopdbapp.workers.dev/?url=5PAT3J
-dw480p: https://1reel.thopdb.com/dw?id=1r_z9TsoebllIDlWX3R0XZJqV-nAkan9u
-dw480p2: https://reel.thopdb.com/dw?id=1rOfS-hjcWpg9FTDFQ8LeakgYavQIZ7Ov
-dw720p: https://1reel.thopdb.com/dw?id=1KAcQg7mOXGRXXMb_Mvol3D2n7PacnIE_
-dw720p2: https://reel.thopdb.com/dw?id=1ezKLLrLsKJSiAg-ZH06wQYQ6Kpv41V0G
-dw1080p: https://1reel.thopdb.com/dw?id=1TVzcb0_pXAaYEs_hOoBUuwb6yMBFwpW8
-dw1080p2: https://reel.thopdb.com/dw?id=1JoTPxE5V6hwHEO-g3S3lQenwJt73ZLgQ
+dw480p: https://2reel.thopdb.com/dw?id=1r_z9TsoebllIDlWX3R0XZJqV-nAkan9u
+dw480p2: https://2reel.thopdb.com/dw?id=1rOfS-hjcWpg9FTDFQ8LeakgYavQIZ7Ov
+dw720p: https://2reel.thopdb.com/dw?id=1KAcQg7mOXGRXXMb_Mvol3D2n7PacnIE_
+dw720p2: https://2reel.thopdb.com/dw?id=1ezKLLrLsKJSiAg-ZH06wQYQ6Kpv41V0G
+dw1080p: https://2reel.thopdb.com/dw?id=1TVzcb0_pXAaYEs_hOoBUuwb6yMBFwpW8
+dw1080p2: https://2reel.thopdb.com/dw?id=1JoTPxE5V6hwHEO-g3S3lQenwJt73ZLgQ
 dir:  Sai Kiran
 featured: true
 ---
