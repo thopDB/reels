@@ -8,12 +8,12 @@ lag: Telugu
 image: assets/images/love-today.jpg
 description: "Love Today (2022) Full Movie Download and watch online 720p low file size 500 mb."
 trailer: https://www.youtube.com/watch?v=FaQe8JFGdaM
-480p: https://www.thopdbapp.workers.dev/?url=12dE0JeQHlpqINY72skIay6sNQe0KMj4o
-720p: https://www.thopdbapp.workers.dev/?url=1s76-EpCYiZTYFP3Fo7LEM30LSm4_g33e
-1080p: https://www.thopdbapp.workers.dev/?url=1ft392xpn_t1VXPERFshdMm7d9zxJAE0N
-dw480p: https://1reel.thopdb.com/dw?id=12dE0JeQHlpqINY72skIay6sNQe0KMj4o
-dw720p: https://1reel.thopdb.com/dw?id=1s76-EpCYiZTYFP3Fo7LEM30LSm4_g33e
-dw1080p: https://1reel.thopdb.com/dw?id=1ft392xpn_t1VXPERFshdMm7d9zxJAE0N
+480p: https://mdisk.thopdbapp.workers.dev/?url=D12D50
+720p: https://mdisk.thopdbapp.workers.dev/?url=D12D50
+1080p: https://mdisk.thopdbapp.workers.dev/?url=D12D50
+dw480p: https://2reel.thopdb.com/dw?id=1yc7irehtGUWrIZDmQkESlHY5RDRvwgN7
+dw720p: https://2reel.thopdb.com/dw?id=1pjGIllcgOxkFvbfyST-iAkf7WybE1O6l
+dw1080p: https://2reel.thopdb.com/dw?id=13SoqMQS2V_dKa4iLpcaRyBafRDnlu741
 dir:  Pradeep Ranganathan
 ---
 
