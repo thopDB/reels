@@ -9,7 +9,7 @@ description: "Reporter (2023) Telugu SUNNXT WEB-DL – [4K-2160p, 1080p, 720p, 3
 trailer: https://www.youtube.com/watch?v=qomnabzRCms
 480p: https://mdisk.thopdbapp.workers.dev/?url=a2Sory
 720p: https://mdisk.thopdbapp.workers.dev/?url=BQAWTO
-1080p: https://mdisk.thopdbapp.workers.dev/?url=BQAWTO
+1080p: https://mdisk.thopdbapp.workers.dev/?url=5rVMKi
 dw480p: https://2reel.thopdb.com/dw?id=1rRzNuuypNmTVRcoYp8Hhkf_YtBlzUSmx
 dw720p: https://2reel.thopdb.com/dw?id=1L7vn2zwSdSG68HwB0OqPu3QNT2ya-jOZ
 dw1080p: https://2reel.thopdb.com/dw?id=1ogkYjAnzyuETCM90WeF-94rw5W0Ah8ye
