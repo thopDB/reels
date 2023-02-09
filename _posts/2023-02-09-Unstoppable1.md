@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Unstoppable (2023) Power Finale – Part 2"
+title:  "Unstoppable (2023)Finale – Part 2"
 categories: [ Telugu ]
 tags: [Nandamuri Balakrishna, Pawan Kalyan]
 image: assets/images/pawan.jpg
